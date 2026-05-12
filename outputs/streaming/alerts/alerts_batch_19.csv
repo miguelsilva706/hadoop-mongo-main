@@ -1,0 +1,17 @@
+event_id,venta_id,cliente_nombre,plataforma,metodo_pago,total,riesgo_fraude,event_timestamp,batch_id
+EVT-001147,V36520,Iris Campoy Berrocal,PC,Efectivo,239.9,0.94,2026-05-12 00:51:45,19
+EVT-001188,V17698,Heraclio Álvaro Domingo,PS5,Yape,239.9,0.94,2026-05-12 00:51:50,19
+EVT-001187,V23897,Adelia Hurtado Ledesma,PS4,Tarjeta Crédito,379.8,0.93,2026-05-12 00:51:50,19
+EVT-001150,V27829,Edelmiro Espada Vara,PS5,Yape,809.7,0.91,2026-05-12 00:51:45,19
+EVT-001151,V28379,Ruben Ayala,PS5,Tarjeta Crédito,659.7,0.9,2026-05-12 00:51:45,19
+EVT-001157,V48202,Camilo Báez,PS5,Yape,299.9,0.9,2026-05-12 00:51:46,19
+EVT-001170,V02907,Pilar Cuervo Morante,Switch,Yape,199.9,0.9,2026-05-12 00:51:48,19
+EVT-001154,V29114,Rufina Caridad Vélez Nuñez,PS5,Tarjeta Débito,249.9,0.89,2026-05-12 00:51:46,19
+EVT-001156,V48406,Bienvenida Ribes Casado,Switch,Tarjeta Crédito,279.9,0.87,2026-05-12 00:51:46,19
+EVT-001162,V29504,Diego Iniesta Lara,Xbox,Tarjeta Crédito,659.7,0.85,2026-05-12 00:51:47,19
+EVT-001180,V40193,Purificación Viña Puga,PS5,Efectivo,299.9,0.85,2026-05-12 00:51:49,19
+EVT-001168,V13766,Moreno Rodriguez Ferrer,PS4,Yape,379.8,0.84,2026-05-12 00:51:48,19
+EVT-001166,V46994,Constanza Mendizábal,PS5,Tarjeta Débito,249.9,0.82,2026-05-12 00:51:47,19
+EVT-001184,V43516,Heliodoro Cortes-Posada,PS5,Plin,219.9,0.8,2026-05-12 00:51:50,19
+EVT-001158,V42486,Ovidio Alba Llobet,PC,Efectivo,569.7,0.79,2026-05-12 00:51:46,19
+EVT-001177,V10604,Pío Goñi Morante,PS5,Efectivo,439.8,0.75,2026-05-12 00:51:49,19

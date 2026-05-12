@@ -1,0 +1,51 @@
+event_id,venta_id,cliente_nombre,plataforma,metodo_pago,total,riesgo_fraude,event_timestamp,batch_id
+EVT-000103,V24097,desconocido,Xbox,Tarjeta Débito,379.8,0.93,2026-05-11 00:54:40,3
+EVT-000105,V13708,desconocido,Switch,Yape,279.9,0.93,2026-05-11 00:54:40,3
+EVT-000135,V30123,desconocido,PC,Efectivo,199.9,0.93,2026-05-11 00:54:43,3
+EVT-000093,V38124,desconocido,Switch,Tarjeta Crédito,499.8,0.92,2026-05-11 00:54:39,3
+EVT-000119,V17811,desconocido,PS5,Plin,249.9,0.92,2026-05-11 00:54:42,3
+EVT-000165,V26186,desconocido,PS5,Efectivo,199.9,0.92,2026-05-11 00:54:46,3
+EVT-000186,V30251,desconocido,Switch,Tarjeta Crédito,749.7,0.92,2026-05-11 00:54:48,3
+EVT-000275,V12407,desconocido,Switch,Tarjeta Débito,179.9,0.92,2026-05-11 00:54:57,3
+EVT-000076,V08946,desconocido,Xbox,Yape,229.9,0.91,2026-05-11 00:54:37,3
+EVT-000106,V30442,desconocido,Switch,Yape,299.9,0.91,2026-05-11 00:54:40,3
+EVT-000229,V37789,desconocido,PC,Tarjeta Débito,599.8,0.91,2026-05-11 00:54:53,3
+EVT-000265,V02981,desconocido,PS4,Tarjeta Débito,659.7,0.91,2026-05-11 00:54:56,3
+EVT-000267,V11559,desconocido,PS5,Yape,599.7,0.91,2026-05-11 00:54:57,3
+EVT-000089,V00994,desconocido,Xbox,Tarjeta Débito,279.9,0.9,2026-05-11 00:54:39,3
+EVT-000164,V38454,desconocido,PC,Tarjeta Débito,229.9,0.9,2026-05-11 00:54:46,3
+EVT-000197,V02118,desconocido,Xbox,Tarjeta Débito,519.8,0.9,2026-05-11 00:54:50,3
+EVT-000097,V00922,desconocido,Xbox,Tarjeta Débito,239.9,0.88,2026-05-11 00:54:39,3
+EVT-000120,V19563,desconocido,PS4,Plin,249.9,0.88,2026-05-11 00:54:42,3
+EVT-000144,V08656,desconocido,PS4,Plin,249.9,0.87,2026-05-11 00:54:44,3
+EVT-000182,V37862,desconocido,PS4,Yape,129.9,0.85,2026-05-11 00:54:48,3
+EVT-000073,V45097,desconocido,Switch,Efectivo,479.8,0.84,2026-05-11 00:54:37,3
+EVT-000078,V02634,desconocido,Xbox,Tarjeta Débito,219.9,0.84,2026-05-11 00:54:37,3
+EVT-000133,V40704,desconocido,Switch,Efectivo,199.9,0.84,2026-05-11 00:54:43,3
+EVT-000167,V04745,desconocido,Switch,Efectivo,439.8,0.84,2026-05-11 00:54:47,3
+EVT-000181,V49419,desconocido,Switch,Tarjeta Débito,599.7,0.84,2026-05-11 00:54:48,3
+EVT-000226,V37525,desconocido,PC,Yape,519.8,0.84,2026-05-11 00:54:52,3
+EVT-000075,V20353,desconocido,Switch,Efectivo,239.9,0.83,2026-05-11 00:54:37,3
+EVT-000180,V40063,desconocido,PC,Plin,249.9,0.83,2026-05-11 00:54:48,3
+EVT-000212,V45390,desconocido,PC,Efectivo,219.9,0.83,2026-05-11 00:54:51,3
+EVT-000150,V33093,desconocido,Xbox,Plin,189.9,0.82,2026-05-11 00:54:45,3
+EVT-000154,V46342,desconocido,PS5,Plin,539.8,0.82,2026-05-11 00:54:45,3
+EVT-000101,V25638,desconocido,Switch,Yape,219.9,0.81,2026-05-11 00:54:40,3
+EVT-000155,V22646,desconocido,PS4,Yape,399.8,0.81,2026-05-11 00:54:45,3
+EVT-000220,V36322,desconocido,Xbox,Plin,199.9,0.81,2026-05-11 00:54:52,3
+EVT-000142,V11645,desconocido,PC,Efectivo,249.9,0.8,2026-05-11 00:54:44,3
+EVT-000252,V06785,desconocido,PC,Tarjeta Crédito,219.9,0.8,2026-05-11 00:54:55,3
+EVT-000268,V36632,desconocido,PC,Plin,129.9,0.8,2026-05-11 00:54:57,3
+EVT-000074,V47528,desconocido,PS4,Tarjeta Crédito,179.9,0.79,2026-05-11 00:54:37,3
+EVT-000224,V01361,desconocido,Switch,Tarjeta Débito,229.9,0.79,2026-05-11 00:54:52,3
+EVT-000139,V05032,desconocido,PC,Tarjeta Débito,459.8,0.78,2026-05-11 00:54:44,3
+EVT-000174,V19444,desconocido,PS5,Yape,869.7,0.78,2026-05-11 00:54:47,3
+EVT-000270,V14606,desconocido,Xbox,Tarjeta Débito,249.9,0.78,2026-05-11 00:54:57,3
+EVT-000273,V46440,desconocido,PS4,Yape,459.8,0.78,2026-05-11 00:54:57,3
+EVT-000193,V08227,desconocido,PS5,Efectivo,199.9,0.77,2026-05-11 00:54:49,3
+EVT-000271,V40455,desconocido,PS5,Tarjeta Débito,689.7,0.77,2026-05-11 00:54:57,3
+EVT-000234,V14505,desconocido,PS5,Plin,229.9,0.76,2026-05-11 00:54:53,3
+EVT-000237,V16554,desconocido,Switch,Tarjeta Débito,269.9,0.76,2026-05-11 00:54:54,3
+EVT-000171,V49744,desconocido,PC,Tarjeta Débito,899.7,0.75,2026-05-11 00:54:47,3
+EVT-000262,V04805,desconocido,PS4,Plin,539.8,0.75,2026-05-11 00:54:56,3
+EVT-000266,V08624,desconocido,Xbox,Plin,599.8,0.75,2026-05-11 00:54:57,3

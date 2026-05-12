@@ -1,0 +1,13 @@
+event_id,venta_id,cliente_nombre,plataforma,metodo_pago,total,riesgo_fraude,event_timestamp,batch_id
+EVT-000025,V05586,Angélica Clemente Niño,PS5,Tarjeta Débito,219.9,0.95,2026-05-12 00:30:16,11
+EVT-000046,V33914,Edelmiro Espada Vara,PC,Tarjeta Débito,779.7,0.91,2026-05-12 00:30:18,11
+EVT-000062,V04888,Edelmira Arnal Castell,Switch,Plin,599.7,0.87,2026-05-12 00:30:20,11
+EVT-000009,V07057,Pío Goñi Morante,Xbox,Yape,439.8,0.84,2026-05-12 00:30:14,11
+EVT-000039,V27433,Luisina Villa Abascal,Switch,Tarjeta Crédito,249.9,0.78,2026-05-12 00:30:17,11
+EVT-000018,V31168,Isabel Rivero,PS5,Efectivo,479.8,0.76,2026-05-12 00:30:15,11
+EVT-000022,V14511,Lourdes Seco Benavente,PS5,Efectivo,299.9,0.76,2026-05-12 00:30:16,11
+EVT-000027,V10718,Ana Frutos Recio,PS5,Yape,219.9,0.76,2026-05-12 00:30:16,11
+EVT-000057,V38845,Baldomero Esteve Torralba,Xbox,Efectivo,439.8,0.76,2026-05-12 00:30:19,11
+EVT-000042,V19123,Chucho Muro Pedrosa,PS4,Efectivo,259.9,0.75,2026-05-12 00:30:18,11
+EVT-000058,V39689,Jennifer Izaguirre,Switch,Yape,219.9,0.75,2026-05-12 00:30:19,11
+EVT-000063,V48905,Amado David Valencia Chaparro,PS5,Yape,239.9,0.75,2026-05-12 00:30:20,11
