@@ -1,0 +1,10 @@
+message_key,kafka_timestamp,event_id,event_type,event_timestamp,venta_id,cliente_id,juego_id,plataforma,metodo_pago,vendedor,precio,cantidad,total,cliente_nombre,nivel_membresia,distrito,riesgo_fraude,venta_riesgosa,processing_timestamp,batch_id
+V26436,2026-05-11 00:55:20.019,EVT-000492,envio_preparado,2026-05-11 00:55:20,V26436,C450,JV015,PS5,Efectivo,Ana,239.9,1,239.9,desconocido,Normal,Desconocido,0.11,False,2026-05-11 00:55:30.037,7
+V11633,2026-05-11 00:55:20.120,EVT-000493,venta_cancelada,2026-05-11 00:55:20,V11633,C460,JV004,Switch,Tarjeta Débito,Ana,279.9,3,839.7,desconocido,Normal,Desconocido,0.5,False,2026-05-11 00:55:30.037,7
+V27950,2026-05-11 00:55:20.221,EVT-000494,venta_creada,2026-05-11 00:55:20,V27950,C414,JV014,Switch,Plin,Ana,259.9,3,779.7,desconocido,Normal,Desconocido,0.03,False,2026-05-11 00:55:30.037,7
+V27037,2026-05-11 00:55:20.322,EVT-000495,venta_confirmada,2026-05-11 00:55:20,V27037,C397,JV010,PS4,Tarjeta Débito,José,229.9,1,229.9,desconocido,Normal,Desconocido,0.63,False,2026-05-11 00:55:30.037,7
+V42969,2026-05-11 00:55:20.423,EVT-000496,venta_completada,2026-05-11 00:55:20,V42969,C010,JV010,Switch,Yape,Ana,229.9,1,229.9,desconocido,Normal,Desconocido,0.18,False,2026-05-11 00:55:30.037,7
+V17402,2026-05-11 00:55:20.525,EVT-000497,venta_cancelada,2026-05-11 00:55:20,V17402,C042,JV009,PC,Efectivo,Ana,199.9,3,599.7,desconocido,Normal,Desconocido,0.44,False,2026-05-11 00:55:30.037,7
+V08947,2026-05-11 00:55:20.626,EVT-000498,venta_creada,2026-05-11 00:55:20,V08947,C329,JV010,Switch,Tarjeta Débito,Carlos,229.9,1,229.9,desconocido,Normal,Desconocido,0.2,False,2026-05-11 00:55:30.037,7
+V06002,2026-05-11 00:55:20.727,EVT-000499,venta_completada,2026-05-11 00:55:20,V06002,C031,JV020,PS4,Plin,José,179.9,1,179.9,desconocido,Normal,Desconocido,0.55,False,2026-05-11 00:55:30.037,7
+V42788,2026-05-11 00:55:20.828,EVT-000500,venta_completada,2026-05-11 00:55:20,V42788,C432,JV014,Switch,Plin,Ana,259.9,2,519.8,desconocido,Normal,Desconocido,0.38,False,2026-05-11 00:55:30.037,7

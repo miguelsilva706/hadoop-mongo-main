@@ -1,0 +1,19 @@
+event_id,venta_id,cliente_nombre,plataforma,metodo_pago,total,riesgo_fraude,event_timestamp,batch_id
+EVT-000452,V39278,Rodrigo Juan Morante,PS5,Tarjeta Crédito,229.9,0.94,2026-05-12 00:35:27,14
+EVT-000482,V15861,Rocío Ramos Mínguez,Switch,Yape,559.8,0.9,2026-05-12 00:35:30,14
+EVT-000448,V34598,Pío Lloret Castellanos,Switch,Yape,599.7,0.85,2026-05-12 00:35:27,14
+EVT-000458,V24987,Amador Diéguez-Moreno,PC,Plin,259.9,0.85,2026-05-12 00:35:28,14
+EVT-000429,V00733,Hilda del Busquets,PS5,Efectivo,869.7,0.84,2026-05-12 00:35:25,14
+EVT-000439,V34089,Evita Verdejo,PC,Efectivo,129.9,0.84,2026-05-12 00:35:26,14
+EVT-000440,V16043,Alejandro Marqués Vizcaíno,PC,Yape,459.8,0.83,2026-05-12 00:35:26,14
+EVT-000465,V00542,Marciano Agustín,Switch,Plin,389.7,0.83,2026-05-12 00:35:29,14
+EVT-000486,V48740,Aurora Quintanilla Pou,PS5,Tarjeta Débito,359.8,0.82,2026-05-12 00:35:31,14
+EVT-000468,V26688,Ildefonso del Azcona,PC,Tarjeta Débito,189.9,0.81,2026-05-12 00:35:29,14
+EVT-000469,V35260,Cloe Suarez Barral,Switch,Plin,129.9,0.8,2026-05-12 00:35:29,14
+EVT-000451,V11410,Bernarda Pedrosa Montaña,PS5,Tarjeta Crédito,219.9,0.79,2026-05-12 00:35:27,14
+EVT-000466,V37597,Dulce Palomo Bolaños,Switch,Tarjeta Débito,459.8,0.77,2026-05-12 00:35:29,14
+EVT-000470,V30388,Ágata Millán Vives,Xbox,Plin,239.9,0.77,2026-05-12 00:35:29,14
+EVT-000473,V03506,Reyes Vilalta Juliá,Xbox,Tarjeta Crédito,659.7,0.77,2026-05-12 00:35:29,14
+EVT-000478,V28611,Maricela Díaz-Aroca,PS5,Efectivo,229.9,0.76,2026-05-12 00:35:30,14
+EVT-000454,V06316,Silvio Gerónimo Roca Prats,PS5,Plin,899.7,0.75,2026-05-12 00:35:28,14
+EVT-000494,V30519,Iván Rovira-Angulo,PS5,Tarjeta Débito,299.9,0.75,2026-05-12 00:35:32,14

@@ -1,0 +1,16 @@
+event_id,venta_id,cliente_nombre,plataforma,metodo_pago,total,riesgo_fraude,event_timestamp,batch_id
+EVT-001095,V01172,Antonia Coloma Peral,Xbox,Plin,189.9,0.91,2026-05-12 00:51:38,18
+EVT-001097,V14676,Eustaquio Abascal Cerdá,Switch,Yape,749.7,0.91,2026-05-12 00:51:39,18
+EVT-001135,V44310,Constanza Mendizábal,PC,Tarjeta Débito,439.8,0.9,2026-05-12 00:51:44,18
+EVT-001117,V26992,Haroldo Casas Rocamora,Switch,Efectivo,199.9,0.89,2026-05-12 00:51:41,18
+EVT-001102,V11040,Haydée Tenorio Sala,PS5,Tarjeta Débito,299.9,0.87,2026-05-12 00:51:39,18
+EVT-001113,V14341,Juanita Felicia Guardia Calvo,Xbox,Yape,219.9,0.86,2026-05-12 00:51:41,18
+EVT-001138,V25182,Encarna Sara Villena Vallés,PS5,Tarjeta Débito,219.9,0.86,2026-05-12 00:51:44,18
+EVT-001092,V39972,Florencio Gilabert,PC,Efectivo,439.8,0.84,2026-05-12 00:51:38,18
+EVT-001083,V42253,Amaya Moreno Gisbert,PS5,Efectivo,219.9,0.83,2026-05-12 00:51:37,18
+EVT-001114,V15537,Flavia Gallo Roda,PS5,Plin,249.9,0.83,2026-05-12 00:51:41,18
+EVT-001126,V22230,Edelmiro Borja Miranda,PS5,Tarjeta Débito,719.7,0.82,2026-05-12 00:51:42,18
+EVT-001137,V18978,Caridad Tamarit-Serra,PS5,Tarjeta Crédito,219.9,0.81,2026-05-12 00:51:44,18
+EVT-001084,V49806,Emma Expósito,PS5,Tarjeta Crédito,219.9,0.79,2026-05-12 00:51:37,18
+EVT-001109,V11474,Geraldo Gomez,PS4,Plin,269.9,0.77,2026-05-12 00:51:40,18
+EVT-001118,V01950,Almudena Saldaña Feliu,Switch,Plin,199.9,0.77,2026-05-12 00:51:42,18

@@ -1,0 +1,118 @@
+metodo_pago,total_transacciones,monto_total,riesgo_promedio,batch_id
+Plin,1,439.8,0.92,0
+Tarjeta Crédito,1,289.9,0.46,0
+Tarjeta Débito,1,269.9,0.52,0
+Efectivo,55,21610.7,0.53,1
+Plin,56,19481.6,0.54,1
+Yape,47,18192.7,0.49,1
+Tarjeta Débito,44,16053.3,0.48,1
+Tarjeta Crédito,42,14453.8,0.49,1
+Efectivo,21,8866.6,0.49,2
+Tarjeta Crédito,14,5227.8,0.53,2
+Tarjeta Débito,11,4977.8,0.58,2
+Yape,14,4418.1,0.46,2
+Plin,11,3748.4,0.54,2
+Tarjeta Débito,46,17862.4,0.55,3
+Yape,48,17772.1,0.55,3
+Plin,44,15903.0,0.48,3
+Efectivo,37,12714.5,0.51,3
+Tarjeta Crédito,29,10305.4,0.4,3
+Efectivo,17,7647.0,0.46,4
+Tarjeta Crédito,19,7267.0,0.46,4
+Yape,15,6307.5,0.42,4
+Plin,12,4498.0,0.52,4
+Tarjeta Débito,10,2478.9,0.35,4
+Tarjeta Débito,13,5277.7,0.35,5
+Tarjeta Crédito,10,3648.5,0.49,5
+Yape,7,3308.6,0.55,5
+Efectivo,8,2728.9,0.58,5
+Plin,6,2249.0,0.54,5
+Yape,26,9686.1,0.5,6
+Tarjeta Crédito,23,7746.6,0.51,6
+Tarjeta Débito,20,7146.9,0.46,6
+Plin,19,5717.5,0.6,6
+Efectivo,11,4348.2,0.44,6
+Plin,3,1479.4,0.32,7
+Tarjeta Débito,3,1299.5,0.44,7
+Efectivo,2,839.6,0.28,7
+Yape,1,229.9,0.18,7
+Tarjeta Débito,1258,470501.3,0.48,8
+Yape,1241,465083.9,0.47,8
+Tarjeta Crédito,1233,458035.1,0.48,8
+Efectivo,1243,452378.5,0.48,8
+Plin,1220,449549.5,0.48,8
+Plin,30,11235.3,0.43,9
+Yape,22,7836.7,0.53,9
+Tarjeta Crédito,21,7796.8,0.58,9
+Efectivo,15,5557.7,0.41,9
+Tarjeta Débito,17,4757.8,0.44,9
+Tarjeta Crédito,109,41092.8,0.56,10
+Plin,103,40122.8,0.48,10
+Tarjeta Débito,95,39824.0,0.51,10
+Efectivo,102,39043.4,0.49,10
+Yape,91,29357.3,0.5,10
+Efectivo,18,6227.2,0.52,11
+Yape,17,5727.4,0.45,11
+Plin,10,3978.3,0.51,11
+Tarjeta Débito,10,3588.5,0.51,11
+Tarjeta Crédito,8,2968.8,0.44,11
+Efectivo,93,34175.8,0.52,12
+Tarjeta Débito,92,32746.2,0.48,12
+Yape,96,32336.2,0.51,12
+Tarjeta Crédito,84,30356.3,0.48,12
+Plin,72,24389.6,0.48,12
+Tarjeta Crédito,91,33875.6,0.48,13
+Efectivo,91,33855.6,0.53,13
+Yape,82,29907.8,0.51,13
+Tarjeta Débito,76,28967.9,0.44,13
+Plin,75,26998.5,0.48,13
+Tarjeta Débito,22,8966.2,0.44,14
+Plin,17,7506.8,0.51,14
+Efectivo,15,6307.6,0.52,14
+Yape,16,6217.4,0.44,14
+Tarjeta Crédito,15,5417.6,0.51,14
+Plin,90,34515.6,0.54,15
+Yape,85,32496.2,0.48,15
+Efectivo,87,31736.7,0.52,15
+Tarjeta Crédito,84,31396.8,0.47,15
+Tarjeta Débito,83,29757.5,0.46,15
+Tarjeta Débito,129,47719.7,0.48,16
+Tarjeta Crédito,124,45260.8,0.5,16
+Yape,101,42582.2,0.5,16
+Plin,113,40843.4,0.48,16
+Efectivo,102,40523.1,0.47,16
+Tarjeta Débito,20,7377.0,0.52,17
+Efectivo,17,6927.0,0.46,17
+Yape,15,5417.7,0.41,17
+Tarjeta Crédito,13,4718.0,0.47,17
+Plin,15,4718.0,0.52,17
+Tarjeta Crédito,17,5687.4,0.32,18
+Yape,13,5307.6,0.41,18
+Tarjeta Débito,11,4258.2,0.53,18
+Plin,12,3848.3,0.43,18
+Efectivo,12,3388.4,0.5,18
+Tarjeta Crédito,11,4907.8,0.49,19
+Yape,11,4758.1,0.65,19
+Plin,9,3508.5,0.53,19
+Efectivo,9,3078.5,0.57,19
+Tarjeta Débito,9,2448.9,0.5,19
+Plin,20,7546.7,0.46,20
+Tarjeta Débito,19,7116.9,0.45,20
+Yape,18,6856.9,0.45,20
+Efectivo,20,6737.1,0.46,20
+Tarjeta Crédito,3,779.4,0.59,20
+Efectivo,22,7586.9,0.43,21
+Tarjeta Crédito,14,5048.0,0.47,21
+Yape,17,4967.8,0.47,21
+Plin,15,4827.7,0.39,21
+Tarjeta Débito,14,4028.3,0.54,21
+Tarjeta Crédito,25,9296.1,0.43,22
+Yape,17,5837.4,0.52,22
+Tarjeta Débito,14,5737.4,0.38,22
+Efectivo,17,5247.7,0.43,22
+Plin,14,3788.2,0.44,22
+Plin,16,5617.8,0.66,23
+Tarjeta Crédito,12,4987.8,0.43,23
+Efectivo,10,4018.5,0.44,23
+Tarjeta Débito,10,3898.5,0.4,23
+Yape,11,3528.5,0.48,23

@@ -1,0 +1,11 @@
+event_id,venta_id,cliente_nombre,plataforma,metodo_pago,total,riesgo_fraude,event_timestamp,batch_id
+EVT-001487,V30921,Aura España Ballester,PS5,Plin,239.9,0.92,2026-05-12 00:52:24,23
+EVT-001452,V13699,Pancho Bonilla Calderon,PC,Efectivo,219.9,0.9,2026-05-12 00:52:21,23
+EVT-001489,V02447,María Belén Alcántara Zorrilla,PS5,Plin,289.9,0.9,2026-05-12 00:52:25,23
+EVT-001468,V00797,Blanca Prats Batlle,PC,Tarjeta Crédito,569.7,0.89,2026-05-12 00:52:23,23
+EVT-001458,V48742,Julia de Lopez,PS5,Plin,439.8,0.87,2026-05-12 00:52:21,23
+EVT-001442,V32789,Adelaida Luz Checa Roca,PC,Plin,229.9,0.86,2026-05-12 00:52:20,23
+EVT-001469,V23698,David Ruperto Gual Aguilar,PS4,Yape,189.9,0.86,2026-05-12 00:52:23,23
+EVT-001466,V14128,Eva Salas Andres,PC,Tarjeta Débito,249.9,0.83,2026-05-12 00:52:22,23
+EVT-001461,V18161,Leonor Zurita Vendrell,PS5,Efectivo,599.8,0.81,2026-05-12 00:52:22,23
+EVT-001492,V18146,Rosalva del Guerra,PS5,Tarjeta Débito,869.7,0.76,2026-05-12 00:52:25,23

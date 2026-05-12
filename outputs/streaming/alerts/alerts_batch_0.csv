@@ -1,0 +1,2 @@
+event_id,venta_id,cliente_nombre,plataforma,metodo_pago,total,riesgo_fraude,event_timestamp,batch_id
+EVT-000254,V10938,desconocido,Xbox,Plin,439.8,0.92,2026-05-11 00:42:55,0

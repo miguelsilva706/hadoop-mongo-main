@@ -1,0 +1,17 @@
+event_id,venta_id,cliente_nombre,plataforma,metodo_pago,total,riesgo_fraude,event_timestamp,batch_id
+EVT-000315,V13036,desconocido,PS4,Efectivo,199.9,0.95,2026-05-11 00:55:02,4
+EVT-000348,V41226,desconocido,PC,Efectivo,239.9,0.92,2026-05-11 00:55:05,4
+EVT-000312,V29484,desconocido,Xbox,Yape,499.8,0.9,2026-05-11 00:55:01,4
+EVT-000292,V23882,desconocido,Switch,Plin,239.9,0.89,2026-05-11 00:54:59,4
+EVT-000300,V07706,desconocido,Switch,Tarjeta Crédito,239.9,0.87,2026-05-11 00:55:00,4
+EVT-000283,V09578,desconocido,PC,Tarjeta Crédito,599.8,0.86,2026-05-11 00:54:58,4
+EVT-000321,V43723,desconocido,PS5,Plin,689.7,0.86,2026-05-11 00:55:02,4
+EVT-000277,V06779,desconocido,PS5,Yape,269.9,0.84,2026-05-11 00:54:58,4
+EVT-000278,V43557,desconocido,Xbox,Efectivo,749.7,0.83,2026-05-11 00:54:58,4
+EVT-000313,V49789,desconocido,PS4,Yape,869.7,0.82,2026-05-11 00:55:01,4
+EVT-000307,V27816,desconocido,PS4,Efectivo,439.8,0.79,2026-05-11 00:55:01,4
+EVT-000333,V11268,desconocido,Switch,Tarjeta Crédito,229.9,0.79,2026-05-11 00:55:03,4
+EVT-000310,V28081,desconocido,PC,Efectivo,479.8,0.78,2026-05-11 00:55:01,4
+EVT-000326,V48836,desconocido,PS4,Tarjeta Crédito,359.8,0.78,2026-05-11 00:55:03,4
+EVT-000335,V29010,desconocido,Xbox,Plin,179.9,0.77,2026-05-11 00:55:04,4
+EVT-000322,V16104,desconocido,PC,Efectivo,279.9,0.75,2026-05-11 00:55:02,4

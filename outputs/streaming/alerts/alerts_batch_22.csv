@@ -1,0 +1,15 @@
+event_id,venta_id,cliente_nombre,plataforma,metodo_pago,total,riesgo_fraude,event_timestamp,batch_id
+EVT-001415,V20650,Bernardo Tejero Garzón,PS5,Yape,219.9,0.95,2026-05-12 00:52:17,22
+EVT-001369,V07598,Luciano Toledo Valverde,Xbox,Yape,659.7,0.94,2026-05-12 00:52:11,22
+EVT-001425,V30671,Alfonso Cabello-Olivares,PC,Yape,439.8,0.89,2026-05-12 00:52:18,22
+EVT-001405,V32982,David Ruperto Gual Aguilar,PS5,Efectivo,179.9,0.87,2026-05-12 00:52:16,22
+EVT-001417,V44969,Alondra Almazán Yuste,PC,Yape,389.7,0.87,2026-05-12 00:52:17,22
+EVT-001404,V23787,Alba Casado Luna,PS5,Tarjeta Crédito,289.9,0.85,2026-05-12 00:52:16,22
+EVT-001429,V16041,Silvio Gerónimo Roca Prats,PC,Plin,129.9,0.85,2026-05-12 00:52:18,22
+EVT-001403,V20325,Geraldo Gomez,PS5,Efectivo,749.7,0.82,2026-05-12 00:52:15,22
+EVT-001380,V27357,Pío Goñi Morante,PS5,Efectivo,249.9,0.79,2026-05-12 00:52:13,22
+EVT-001423,V30608,Geraldo Gomez,PC,Tarjeta Crédito,129.9,0.77,2026-05-12 00:52:18,22
+EVT-001370,V35493,Maura Quero Ribera,PS5,Yape,289.9,0.76,2026-05-12 00:52:12,22
+EVT-001384,V39750,Leonor Peñalver Luján,PS5,Plin,239.9,0.75,2026-05-12 00:52:13,22
+EVT-001416,V38446,Heliodoro Nazaret Bayo Fernández,PC,Plin,359.8,0.75,2026-05-12 00:52:17,22
+EVT-001430,V18041,Florentina Nevado-Ayllón,PS5,Efectivo,599.8,0.75,2026-05-12 00:52:18,22

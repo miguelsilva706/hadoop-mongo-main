@@ -1,0 +1,17 @@
+event_id,venta_id,cliente_nombre,plataforma,metodo_pago,total,riesgo_fraude,event_timestamp,batch_id
+EVT-001297,V08373,Gabino Soler Mármol,Switch,Plin,129.9,0.94,2026-05-12 00:52:03,21
+EVT-001296,V00373,Emelina Olivares Díaz,Switch,Yape,279.9,0.92,2026-05-12 00:52:03,21
+EVT-001290,V12473,José Mari Céspedes Rueda,Switch,Tarjeta Débito,279.9,0.91,2026-05-12 00:52:02,21
+EVT-001313,V13783,Araceli Giralt Tejero,PS5,Efectivo,219.9,0.9,2026-05-12 00:52:05,21
+EVT-001285,V45198,Anabel Báez Marti,PS5,Yape,239.9,0.89,2026-05-12 00:52:02,21
+EVT-001321,V24123,Geraldo Gomez,PS4,Efectivo,379.8,0.89,2026-05-12 00:52:06,21
+EVT-001335,V43749,Gabino Soler Mármol,PC,Efectivo,249.9,0.89,2026-05-12 00:52:07,21
+EVT-001328,V26836,René Corral Mármol,Switch,Efectivo,199.9,0.88,2026-05-12 00:52:06,21
+EVT-001344,V18722,Cristina Priscila Suárez Guardiola,PS5,Plin,239.9,0.88,2026-05-12 00:52:08,21
+EVT-001274,V30863,Feliciana Pizarro Lucena,PC,Yape,259.8,0.86,2026-05-12 00:52:01,21
+EVT-001276,V23562,Abraham Martín Ariza,PS5,Tarjeta Débito,299.9,0.86,2026-05-12 00:52:01,21
+EVT-001299,V31346,Renata Emilia Córdoba Gual,Switch,Efectivo,239.9,0.85,2026-05-12 00:52:03,21
+EVT-001310,V27201,Isaura Luz Pascual Botella,PC,Tarjeta Crédito,219.9,0.82,2026-05-12 00:52:04,21
+EVT-001280,V04439,Porfirio Vicens-Casal,PS5,Plin,269.9,0.79,2026-05-12 00:52:01,21
+EVT-001284,V37482,Clotilde Carvajal Torrijos,PS5,Yape,479.8,0.78,2026-05-12 00:52:02,21
+EVT-001345,V26477,Juan Carlos Casemiro Vara Alberdi,PS5,Efectivo,299.9,0.75,2026-05-12 00:52:08,21

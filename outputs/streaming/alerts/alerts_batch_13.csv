@@ -1,0 +1,93 @@
+event_id,venta_id,cliente_nombre,plataforma,metodo_pago,total,riesgo_fraude,event_timestamp,batch_id
+EVT-000052,V19176,Luna Miguel Barroso,PS5,Plin,439.8,0.95,2026-05-12 00:34:42,13
+EVT-000053,V31670,Carmelita Díez Llano,Switch,Efectivo,129.9,0.95,2026-05-12 00:34:42,13
+EVT-000154,V16503,Bernardita Marquez-Sureda,PS5,Yape,249.9,0.95,2026-05-12 00:34:53,13
+EVT-000393,V24290,Paz Serna Montoya,Switch,Efectivo,499.8,0.95,2026-05-12 00:35:21,13
+EVT-000021,V42203,Lorenza Ripoll-Pou,PS5,Tarjeta Débito,299.9,0.94,2026-05-12 00:34:39,13
+EVT-000073,V13497,Asunción Alberola Rivas,Switch,Efectivo,189.9,0.94,2026-05-12 00:34:44,13
+EVT-000164,V43366,Augusto Villalonga Merino,PS5,Yape,219.9,0.94,2026-05-12 00:34:54,13
+EVT-000245,V10394,Nicanor Rueda Olivé,Xbox,Yape,239.9,0.94,2026-05-12 00:35:03,13
+EVT-000076,V23324,Esteban del Colomer,PS4,Tarjeta Crédito,269.9,0.93,2026-05-12 00:34:45,13
+EVT-000173,V17375,Pepito Arana Torrent,PC,Efectivo,689.7,0.93,2026-05-12 00:34:55,13
+EVT-000203,V46720,José Manuel Ruperto Atienza Plaza,PC,Efectivo,459.8,0.93,2026-05-12 00:34:58,13
+EVT-000263,V02453,José Roma Quevedo,PS5,Efectivo,899.7,0.93,2026-05-12 00:35:05,13
+EVT-000386,V42637,Esperanza Vazquez Bas,PS5,Yape,539.8,0.93,2026-05-12 00:35:21,13
+EVT-000404,V29070,Itziar Arranz Muñoz,PS5,Yape,219.9,0.93,2026-05-12 00:35:22,13
+EVT-000361,V28375,Maximino Isern,Xbox,Tarjeta Débito,479.8,0.92,2026-05-12 00:35:18,13
+EVT-000149,V12342,Fidela Alonso Perelló,PS5,Plin,189.9,0.91,2026-05-12 00:34:53,13
+EVT-000016,V15113,Amado David Valencia Chaparro,Xbox,Tarjeta Crédito,459.8,0.9,2026-05-12 00:34:38,13
+EVT-000128,V45232,Loreto Arribas Peña,Switch,Plin,199.9,0.9,2026-05-12 00:34:50,13
+EVT-000146,V47644,Leonor Zurita Vendrell,PS5,Efectivo,299.9,0.9,2026-05-12 00:34:52,13
+EVT-000311,V36285,Rita Nicolau Castro,Switch,Yape,749.7,0.9,2026-05-12 00:35:13,13
+EVT-000332,V27421,Ainara de Álvaro,PS5,Plin,719.7,0.9,2026-05-12 00:35:15,13
+EVT-000340,V39011,Ana Frutos Recio,PC,Plin,219.9,0.9,2026-05-12 00:35:16,13
+EVT-000082,V23633,Roberto Borrego,PC,Tarjeta Crédito,219.9,0.89,2026-05-12 00:34:45,13
+EVT-000094,V30898,Gregorio Álvaro Llobet,PS5,Tarjeta Débito,869.7,0.89,2026-05-12 00:34:46,13
+EVT-000254,V29973,Carmelo Espiridión Tirado Segura,PS5,Efectivo,689.7,0.89,2026-05-12 00:35:04,13
+EVT-000280,V18526,María Belén Montoya,PS5,Plin,299.9,0.89,2026-05-12 00:35:07,13
+EVT-000319,V00256,Heliodoro Nazaret Bayo Fernández,PC,Tarjeta Crédito,219.9,0.89,2026-05-12 00:35:14,13
+EVT-000036,V47710,Ale Tormo-Duarte,PS5,Tarjeta Crédito,219.9,0.88,2026-05-12 00:34:40,13
+EVT-000140,V32084,Amílcar Jerónimo Agudo Godoy,PS4,Yape,299.9,0.88,2026-05-12 00:34:52,13
+EVT-000213,V37721,Amalia del Blanes,PS5,Efectivo,539.8,0.88,2026-05-12 00:35:00,13
+EVT-000412,V20222,Nicanor Rueda Olivé,Switch,Plin,279.9,0.88,2026-05-12 00:35:23,13
+EVT-000070,V03481,Enrique Silvio Blanch Fuertes,PS5,Plin,179.9,0.87,2026-05-12 00:34:44,13
+EVT-000081,V15663,Esteban Corbacho,PS5,Efectivo,249.9,0.87,2026-05-12 00:34:45,13
+EVT-000160,V01890,Pascuala Barrena Priego,Xbox,Tarjeta Crédito,229.9,0.87,2026-05-12 00:34:54,13
+EVT-000249,V03642,Aarón Lillo-Ripoll,PS4,Efectivo,569.7,0.87,2026-05-12 00:35:04,13
+EVT-000314,V35361,Soledad Serra Carvajal,Xbox,Efectivo,379.8,0.87,2026-05-12 00:35:13,13
+EVT-000365,V25397,Lucio Bárcena Vilalta,Xbox,Plin,219.9,0.87,2026-05-12 00:35:18,13
+EVT-000385,V28216,Leticia Tapia Mir,Switch,Plin,399.8,0.87,2026-05-12 00:35:21,13
+EVT-000096,V31902,Poncio Escrivá Baños,Switch,Yape,129.9,0.86,2026-05-12 00:34:47,13
+EVT-000129,V34488,Tomasa Tomé Arco,PS5,Yape,219.9,0.86,2026-05-12 00:34:50,13
+EVT-000285,V43041,Lorenza Ripoll-Pou,PS5,Efectivo,539.8,0.86,2026-05-12 00:35:08,13
+EVT-000321,V39890,Luis Ángel Jordán Rueda,Switch,Efectivo,279.9,0.86,2026-05-12 00:35:14,13
+EVT-000004,V27755,Vito Sabater,PS5,Yape,219.9,0.85,2026-05-12 00:34:37,13
+EVT-000057,V02461,Ovidio del Corbacho,Xbox,Yape,129.9,0.85,2026-05-12 00:34:43,13
+EVT-000163,V12725,Maricela Ágata Pascual Egea,Switch,Plin,559.8,0.85,2026-05-12 00:34:54,13
+EVT-000278,V41637,Jennifer Piquer-Mora,PS5,Yape,499.8,0.85,2026-05-12 00:35:07,13
+EVT-000110,V01244,Juana Tello Montenegro,Switch,Efectivo,129.9,0.84,2026-05-12 00:34:48,13
+EVT-000271,V28609,Nidia Jimenez Estevez,PS5,Efectivo,239.9,0.84,2026-05-12 00:35:06,13
+EVT-000328,V43989,Jacobo de Garmendia,PS5,Yape,219.9,0.84,2026-05-12 00:35:15,13
+EVT-000356,V18891,Juana Tello Montenegro,Xbox,Yape,129.9,0.84,2026-05-12 00:35:18,13
+EVT-000048,V41135,Abraham de Angulo,PS5,Tarjeta Crédito,289.9,0.83,2026-05-12 00:34:42,13
+EVT-000098,V05075,Alberto Elorza Redondo,PS5,Tarjeta Débito,229.9,0.83,2026-05-12 00:34:47,13
+EVT-000115,V03680,Mario Torralba,PC,Efectivo,439.8,0.83,2026-05-12 00:34:49,13
+EVT-000152,V33036,Moreno Plaza Cabo,PC,Efectivo,179.9,0.83,2026-05-12 00:34:53,13
+EVT-000162,V36091,Aurora Quintanilla Pou,PS5,Yape,869.7,0.83,2026-05-12 00:34:54,13
+EVT-000388,V21919,Jimena Pol Estevez,Switch,Tarjeta Débito,559.8,0.83,2026-05-12 00:35:21,13
+EVT-000074,V41058,Iván Rovira-Angulo,PC,Tarjeta Crédito,219.9,0.82,2026-05-12 00:34:44,13
+EVT-000131,V49468,Maricela Díaz-Aroca,PS5,Yape,579.8,0.82,2026-05-12 00:34:51,13
+EVT-000225,V05641,Amado David Valencia Chaparro,PS5,Yape,299.9,0.82,2026-05-12 00:35:01,13
+EVT-000232,V29652,Blas de Iglesias,PS5,Tarjeta Crédito,269.9,0.82,2026-05-12 00:35:02,13
+EVT-000368,V33186,Isabel Falcón Godoy,PS5,Tarjeta Débito,359.8,0.82,2026-05-12 00:35:19,13
+EVT-000014,V03417,María Manuela Cabezas Mármol,PS5,Tarjeta Crédito,189.9,0.81,2026-05-12 00:34:38,13
+EVT-000078,V49626,Edelmira Arnal Castell,PS5,Yape,249.9,0.81,2026-05-12 00:34:45,13
+EVT-000231,V37181,Vanesa Robledo Santamaria,PC,Efectivo,219.9,0.81,2026-05-12 00:35:02,13
+EVT-000351,V30267,Reyes Vilalta Juliá,Switch,Plin,499.8,0.81,2026-05-12 00:35:17,13
+EVT-000064,V48876,Pablo Guillén Aguilar,Xbox,Plin,259.9,0.8,2026-05-12 00:34:43,13
+EVT-000080,V05228,Brunilda del Cuéllar,Switch,Efectivo,559.8,0.8,2026-05-12 00:34:45,13
+EVT-000086,V10335,José Roma Quevedo,PC,Tarjeta Débito,189.9,0.8,2026-05-12 00:34:46,13
+EVT-000100,V27161,Constanza Leiva Figueras,Switch,Efectivo,279.9,0.8,2026-05-12 00:34:47,13
+EVT-000197,V21305,Constanza Leiva Figueras,Switch,Yape,279.9,0.8,2026-05-12 00:34:58,13
+EVT-000219,V20254,Almudena Saldaña Feliu,Switch,Plin,599.7,0.8,2026-05-12 00:35:00,13
+EVT-000305,V24381,Aura España Ballester,Switch,Tarjeta Crédito,659.7,0.8,2026-05-12 00:35:12,13
+EVT-000379,V38897,Loreto Arribas Peña,PS5,Yape,249.9,0.8,2026-05-12 00:35:20,13
+EVT-000008,V46453,Horacio Torrents-Sabater,PS5,Plin,269.9,0.79,2026-05-12 00:34:37,13
+EVT-000017,V13013,Rufina Caridad Vélez Nuñez,Xbox,Plin,539.7,0.79,2026-05-12 00:34:38,13
+EVT-000088,V44973,Victorino Pedro-Quintana,PS4,Plin,539.8,0.79,2026-05-12 00:34:46,13
+EVT-000195,V07365,Encarna Sara Villena Vallés,PC,Tarjeta Crédito,499.8,0.79,2026-05-12 00:34:58,13
+EVT-000239,V41299,Etelvina Gil Llorente,Switch,Efectivo,249.9,0.79,2026-05-12 00:35:03,13
+EVT-000240,V45404,Sol Pozo Company,Xbox,Tarjeta Crédito,259.8,0.79,2026-05-12 00:35:03,13
+EVT-000044,V08700,Melania Romeu Arnal,PS5,Yape,289.9,0.78,2026-05-12 00:34:41,13
+EVT-000156,V13811,Leonor Peñalver Luján,PS5,Yape,599.8,0.78,2026-05-12 00:34:53,13
+EVT-000255,V41695,León Sans Oller,PS5,Tarjeta Crédito,299.9,0.78,2026-05-12 00:35:04,13
+EVT-000042,V49050,Florentina Nevado-Ayllón,PS5,Plin,719.7,0.77,2026-05-12 00:34:41,13
+EVT-000143,V23067,León de Tamarit,PS5,Plin,899.7,0.77,2026-05-12 00:34:52,13
+EVT-000165,V20346,Iván Cámara Cuevas,PS5,Tarjeta Débito,539.8,0.77,2026-05-12 00:34:55,13
+EVT-000179,V44197,Azeneth Susana Rozas Frías,PS5,Plin,249.9,0.77,2026-05-12 00:34:56,13
+EVT-000209,V08104,Isabel Rivero,PS5,Efectivo,599.8,0.77,2026-05-12 00:34:59,13
+EVT-000306,V00631,Lupe Soler,Xbox,Tarjeta Débito,659.7,0.77,2026-05-12 00:35:12,13
+EVT-000023,V14642,Abraham Martín Ariza,PC,Tarjeta Débito,189.9,0.75,2026-05-12 00:34:39,13
+EVT-000084,V15377,Heliodoro Nazaret Bayo Fernández,PS5,Yape,299.9,0.75,2026-05-12 00:34:45,13
+EVT-000183,V14198,Lupe Seco Galván,PS5,Tarjeta Crédito,219.9,0.75,2026-05-12 00:34:56,13
+EVT-000324,V27787,Ildefonso del Azcona,PS5,Tarjeta Débito,499.8,0.75,2026-05-12 00:35:14,13

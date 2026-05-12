@@ -1,0 +1,27 @@
+event_id,venta_id,cliente_nombre,plataforma,metodo_pago,total,riesgo_fraude,event_timestamp,batch_id
+EVT-000451,V34030,Heliodoro Nazaret Bayo Fernández,Switch,Tarjeta Débito,129.9,0.94,2026-05-12 00:04:04,9
+EVT-000460,V28851,Almudena Saldaña Feliu,PS5,Plin,299.9,0.94,2026-05-12 00:04:05,9
+EVT-000487,V14029,Lourdes Seco Benavente,Switch,Plin,379.8,0.94,2026-05-12 00:04:07,9
+EVT-000497,V39685,Abraham de Angulo,Switch,Yape,499.8,0.94,2026-05-12 00:04:09,9
+EVT-000404,V12337,Dolores Casado Anaya,PC,Tarjeta Crédito,359.8,0.92,2026-05-12 00:03:59,9
+EVT-000438,V44871,Armando Villalonga Zaragoza,PS5,Yape,229.9,0.91,2026-05-12 00:04:02,9
+EVT-000440,V23714,Lisandro Moisés Ramis Barba,Switch,Plin,129.9,0.91,2026-05-12 00:04:03,9
+EVT-000425,V31425,Onofre Marti-Vidal,Switch,Tarjeta Débito,399.8,0.9,2026-05-12 00:04:01,9
+EVT-000472,V32247,Mar Barón Fonseca,Xbox,Plin,379.8,0.9,2026-05-12 00:04:06,9
+EVT-000410,V34694,Nico Ibán Morata Abascal,Switch,Tarjeta Crédito,279.9,0.89,2026-05-12 00:04:00,9
+EVT-000500,V32177,Albano Herranz Farré,PS4,Tarjeta Crédito,539.8,0.89,2026-05-12 00:04:09,9
+EVT-000439,V30056,Paulina Sarabia,Switch,Tarjeta Crédito,249.9,0.88,2026-05-12 00:04:03,9
+EVT-000465,V26987,Juana Tello Montenegro,PS5,Yape,219.9,0.88,2026-05-12 00:04:05,9
+EVT-000490,V15122,Jose Angel Bonilla Ruano,PS5,Plin,659.7,0.84,2026-05-12 00:04:08,9
+EVT-000409,V39359,Mar Barón Fonseca,PC,Tarjeta Crédito,499.8,0.83,2026-05-12 00:03:59,9
+EVT-000467,V47611,Rafa de Gual,Switch,Plin,499.8,0.83,2026-05-12 00:04:05,9
+EVT-000477,V41277,Esteban del Colomer,PC,Tarjeta Débito,219.9,0.83,2026-05-12 00:04:06,9
+EVT-000420,V10849,Samuel Pallarès Montenegro,Switch,Tarjeta Crédito,229.9,0.82,2026-05-12 00:04:01,9
+EVT-000463,V08017,Eloísa Castell,PS5,Yape,519.8,0.82,2026-05-12 00:04:05,9
+EVT-000413,V17414,Gil Patricio Casanova Barrena,PC,Tarjeta Crédito,519.8,0.81,2026-05-12 00:04:00,9
+EVT-000474,V14837,Manu Royo Blanca,PS5,Tarjeta Crédito,459.8,0.8,2026-05-12 00:04:06,9
+EVT-000478,V20969,Rita Nicolau Castro,PS5,Tarjeta Crédito,269.9,0.8,2026-05-12 00:04:07,9
+EVT-000493,V06606,Isaac Marquez,Switch,Tarjeta Crédito,199.9,0.8,2026-05-12 00:04:08,9
+EVT-000484,V22902,Victorino Mena Burgos,PS5,Tarjeta Débito,229.9,0.78,2026-05-12 00:04:07,9
+EVT-000397,V21200,Álvaro de Posada,PS5,Plin,659.7,0.77,2026-05-12 00:03:58,9
+EVT-000415,V44248,Ruperto Hervia Cardona,PS5,Yape,249.9,0.76,2026-05-12 00:04:00,9

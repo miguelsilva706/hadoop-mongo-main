@@ -1,0 +1,4 @@
+message_key,kafka_timestamp,event_id,event_type,event_timestamp,venta_id,cliente_id,juego_id,plataforma,metodo_pago,vendedor,precio,cantidad,total,cliente_nombre,nivel_membresia,distrito,riesgo_fraude,venta_riesgosa,processing_timestamp,batch_id
+V10938,2026-05-11 00:42:55.349,EVT-000254,pago_aprobado,2026-05-11 00:42:55,V10938,C431,JV017,Xbox,Plin,José,219.9,2,439.8,desconocido,Normal,Desconocido,0.92,True,2026-05-11 00:42:55.612,0
+V10555,2026-05-11 00:42:55.451,EVT-000255,venta_creada,2026-05-11 00:42:55,V10555,C205,JV016,Switch,Tarjeta Crédito,Luis,289.9,1,289.9,desconocido,Normal,Desconocido,0.46,False,2026-05-11 00:42:55.612,0
+V12523,2026-05-11 00:42:55.552,EVT-000256,venta_completada,2026-05-11 00:42:55,V12523,C166,JV013,PS4,Tarjeta Débito,Carlos,269.9,1,269.9,desconocido,Normal,Desconocido,0.52,False,2026-05-11 00:42:55.612,0

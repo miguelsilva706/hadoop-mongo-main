@@ -1,0 +1,18 @@
+event_id,venta_id,cliente_nombre,plataforma,metodo_pago,total,riesgo_fraude,event_timestamp,batch_id
+EVT-000999,V22603,Flora Ballester Paz,Xbox,Tarjeta Débito,219.9,0.95,2026-05-12 00:51:26,17
+EVT-001032,V31354,Ruth Gelabert Hidalgo,PS5,Tarjeta Crédito,479.8,0.94,2026-05-12 00:51:31,17
+EVT-001008,V24134,Alma Marco Ochoa,PS5,Tarjeta Débito,299.9,0.92,2026-05-12 00:51:28,17
+EVT-001064,V37132,Cirino Pinto-Carvajal,PS4,Tarjeta Débito,599.8,0.91,2026-05-12 00:51:35,17
+EVT-001046,V17862,Florina de Rico,PC,Efectivo,439.8,0.9,2026-05-12 00:51:33,17
+EVT-001033,V43433,Gaspar Jaume Quesada,PS5,Tarjeta Débito,299.9,0.88,2026-05-12 00:51:31,17
+EVT-001011,V04226,Olimpia Pulido Vergara,Switch,Tarjeta Débito,599.7,0.87,2026-05-12 00:51:28,17
+EVT-001052,V29823,Teo Marqués Sales,Xbox,Efectivo,459.8,0.86,2026-05-12 00:51:33,17
+EVT-001075,V01095,Lisandro Amorós Garrido,Switch,Plin,229.9,0.85,2026-05-12 00:51:36,17
+EVT-001010,V44644,Narcisa Barón-Montaña,Xbox,Plin,479.8,0.8,2026-05-12 00:51:28,17
+EVT-001028,V19355,Esmeralda Echeverría,PS5,Yape,459.8,0.8,2026-05-12 00:51:30,17
+EVT-001030,V43667,Vidal Luque Salmerón,Switch,Tarjeta Crédito,249.9,0.8,2026-05-12 00:51:31,17
+EVT-001042,V09272,Javi Tormo Tur,PS5,Tarjeta Crédito,229.9,0.8,2026-05-12 00:51:32,17
+EVT-001016,V42870,Jennifer Piquer-Mora,PS5,Tarjeta Débito,579.8,0.79,2026-05-12 00:51:29,17
+EVT-001029,V41696,Clotilde Vidal Coronado,PS5,Tarjeta Crédito,579.8,0.78,2026-05-12 00:51:30,17
+EVT-001076,V47448,Alejandro Marqués Vizcaíno,PC,Plin,259.8,0.78,2026-05-12 00:51:36,17
+EVT-001005,V43836,Emma Expósito,PS5,Tarjeta Débito,219.9,0.75,2026-05-12 00:51:27,17

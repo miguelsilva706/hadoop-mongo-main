@@ -1,0 +1,205 @@
+message_key,kafka_timestamp,event_id,event_type,event_timestamp,venta_id,cliente_id,juego_id,plataforma,metodo_pago,vendedor,precio,cantidad,total,cliente_nombre,nivel_membresia,distrito,riesgo_fraude,venta_riesgosa,processing_timestamp,batch_id
+V25735,2026-05-11 00:54:37.381,EVT-000072,pago_aprobado,2026-05-11 00:54:37,V25735,C219,JV007,Xbox,Tarjeta Débito,José,249.9,1,249.9,desconocido,Normal,Desconocido,0.07,False,2026-05-11 00:54:57.999,3
+V45097,2026-05-11 00:54:37.481,EVT-000073,pago_aprobado,2026-05-11 00:54:37,V45097,C075,JV015,Switch,Efectivo,José,239.9,2,479.8,desconocido,Normal,Desconocido,0.84,True,2026-05-11 00:54:57.999,3
+V47528,2026-05-11 00:54:37.582,EVT-000074,venta_cancelada,2026-05-11 00:54:37,V47528,C242,JV020,PS4,Tarjeta Crédito,Luis,179.9,1,179.9,desconocido,Normal,Desconocido,0.79,True,2026-05-11 00:54:57.999,3
+V20353,2026-05-11 00:54:37.683,EVT-000075,venta_confirmada,2026-05-11 00:54:37,V20353,C082,JV015,Switch,Efectivo,Luis,239.9,1,239.9,desconocido,Normal,Desconocido,0.83,True,2026-05-11 00:54:57.999,3
+V08946,2026-05-11 00:54:37.784,EVT-000076,venta_confirmada,2026-05-11 00:54:37,V08946,C427,JV010,Xbox,Yape,Carlos,229.9,1,229.9,desconocido,Normal,Desconocido,0.91,True,2026-05-11 00:54:57.999,3
+V48939,2026-05-11 00:54:37.884,EVT-000077,pago_aprobado,2026-05-11 00:54:37,V48939,C468,JV009,PS5,Efectivo,Carlos,199.9,1,199.9,desconocido,Normal,Desconocido,0.09,False,2026-05-11 00:54:57.999,3
+V02634,2026-05-11 00:54:37.991,EVT-000078,venta_completada,2026-05-11 00:54:37,V02634,C462,JV006,Xbox,Tarjeta Débito,Luis,219.9,1,219.9,desconocido,Normal,Desconocido,0.84,True,2026-05-11 00:54:57.999,3
+V35990,2026-05-11 00:54:38.092,EVT-000079,venta_creada,2026-05-11 00:54:38,V35990,C168,JV010,PS4,Tarjeta Crédito,Carlos,229.9,1,229.9,desconocido,Normal,Desconocido,0.46,False,2026-05-11 00:54:57.999,3
+V26813,2026-05-11 00:54:38.192,EVT-000080,venta_creada,2026-05-11 00:54:38,V26813,C245,JV014,PS4,Plin,Carlos,259.9,1,259.9,desconocido,Normal,Desconocido,0.62,False,2026-05-11 00:54:57.999,3
+V30886,2026-05-11 00:54:38.293,EVT-000081,pago_aprobado,2026-05-11 00:54:38,V30886,C066,JV019,PS5,Efectivo,Carlos,249.9,1,249.9,desconocido,Normal,Desconocido,0.72,False,2026-05-11 00:54:57.999,3
+V47818,2026-05-11 00:54:38.394,EVT-000082,pago_aprobado,2026-05-11 00:54:38,V47818,C206,JV012,PC,Yape,Carlos,189.9,1,189.9,desconocido,Normal,Desconocido,0.47,False,2026-05-11 00:54:57.999,3
+V20005,2026-05-11 00:54:38.495,EVT-000083,venta_creada,2026-05-11 00:54:38,V20005,C394,JV019,Switch,Efectivo,Ana,249.9,1,249.9,desconocido,Normal,Desconocido,0.5,False,2026-05-11 00:54:57.999,3
+V06059,2026-05-11 00:54:38.595,EVT-000084,venta_confirmada,2026-05-11 00:54:38,V06059,C154,JV018,Xbox,Tarjeta Débito,Ana,129.9,2,259.8,desconocido,Normal,Desconocido,0.1,False,2026-05-11 00:54:57.999,3
+V07876,2026-05-11 00:54:38.696,EVT-000085,venta_creada,2026-05-11 00:54:38,V07876,C311,JV011,Switch,Tarjeta Crédito,María,219.9,1,219.9,desconocido,Normal,Desconocido,0.24,False,2026-05-11 00:54:57.999,3
+V06203,2026-05-11 00:54:38.797,EVT-000086,venta_creada,2026-05-11 00:54:38,V06203,C131,JV019,Xbox,Tarjeta Crédito,José,249.9,1,249.9,desconocido,Normal,Desconocido,0.16,False,2026-05-11 00:54:57.999,3
+V08280,2026-05-11 00:54:38.898,EVT-000087,venta_completada,2026-05-11 00:54:38,V08280,C156,JV017,PS4,Tarjeta Crédito,José,219.9,3,659.7,desconocido,Normal,Desconocido,0.11,False,2026-05-11 00:54:57.999,3
+V43970,2026-05-11 00:54:38.999,EVT-000088,venta_confirmada,2026-05-11 00:54:38,V43970,C445,JV010,PS4,Yape,Ana,229.9,2,459.8,desconocido,Normal,Desconocido,0.7,False,2026-05-11 00:54:57.999,3
+V00994,2026-05-11 00:54:39.100,EVT-000089,venta_confirmada,2026-05-11 00:54:39,V00994,C083,JV004,Xbox,Tarjeta Débito,Luis,279.9,1,279.9,desconocido,Normal,Desconocido,0.9,True,2026-05-11 00:54:57.999,3
+V07077,2026-05-11 00:54:39.201,EVT-000090,venta_confirmada,2026-05-11 00:54:39,V07077,C488,JV006,Xbox,Efectivo,María,219.9,2,439.8,desconocido,Normal,Desconocido,0.21,False,2026-05-11 00:54:57.999,3
+V07949,2026-05-11 00:54:39.302,EVT-000091,venta_confirmada,2026-05-11 00:54:39,V07949,C304,JV008,Xbox,Plin,Ana,239.9,3,719.7,desconocido,Normal,Desconocido,0.57,False,2026-05-11 00:54:57.999,3
+V31709,2026-05-11 00:54:39.403,EVT-000092,venta_completada,2026-05-11 00:54:39,V31709,C178,JV017,PS4,Yape,Ana,219.9,1,219.9,desconocido,Normal,Desconocido,0.47,False,2026-05-11 00:54:57.999,3
+V38124,2026-05-11 00:54:39.516,EVT-000093,pago_aprobado,2026-05-11 00:54:39,V38124,C073,JV019,Switch,Tarjeta Crédito,María,249.9,2,499.8,desconocido,Normal,Desconocido,0.92,True,2026-05-11 00:54:57.999,3
+V10800,2026-05-11 00:54:39.622,EVT-000094,pago_aprobado,2026-05-11 00:54:39,V10800,C404,JV005,PS5,Yape,Carlos,299.9,1,299.9,desconocido,Normal,Desconocido,0.69,False,2026-05-11 00:54:57.999,3
+V33976,2026-05-11 00:54:39.723,EVT-000095,venta_creada,2026-05-11 00:54:39,V33976,C396,JV004,Switch,Tarjeta Crédito,Luis,279.9,1,279.9,desconocido,Normal,Desconocido,0.68,False,2026-05-11 00:54:57.999,3
+V16354,2026-05-11 00:54:39.824,EVT-000096,venta_completada,2026-05-11 00:54:39,V16354,C341,JV009,PC,Tarjeta Débito,Ana,199.9,1,199.9,desconocido,Normal,Desconocido,0.63,False,2026-05-11 00:54:57.999,3
+V00922,2026-05-11 00:54:39.925,EVT-000097,venta_creada,2026-05-11 00:54:39,V00922,C012,JV008,Xbox,Tarjeta Débito,Luis,239.9,1,239.9,desconocido,Normal,Desconocido,0.88,True,2026-05-11 00:54:57.999,3
+V04555,2026-05-11 00:54:40.026,EVT-000098,venta_creada,2026-05-11 00:54:40,V04555,C046,JV018,Xbox,Efectivo,Carlos,129.9,3,389.7,desconocido,Normal,Desconocido,0.09,False,2026-05-11 00:54:57.999,3
+V12064,2026-05-11 00:54:40.127,EVT-000099,venta_creada,2026-05-11 00:54:40,V12064,C352,JV010,Xbox,Plin,Luis,229.9,3,689.7,desconocido,Normal,Desconocido,0.27,False,2026-05-11 00:54:57.999,3
+V21873,2026-05-11 00:54:40.228,EVT-000100,venta_cancelada,2026-05-11 00:54:40,V21873,C351,JV011,Xbox,Efectivo,Luis,219.9,1,219.9,desconocido,Normal,Desconocido,0.22,False,2026-05-11 00:54:57.999,3
+V25638,2026-05-11 00:54:40.330,EVT-000101,pago_aprobado,2026-05-11 00:54:40,V25638,C021,JV011,Switch,Yape,María,219.9,1,219.9,desconocido,Normal,Desconocido,0.81,True,2026-05-11 00:54:57.999,3
+V27912,2026-05-11 00:54:40.431,EVT-000102,pago_aprobado,2026-05-11 00:54:40,V27912,C221,JV004,PC,Yape,María,279.9,1,279.9,desconocido,Normal,Desconocido,0.66,False,2026-05-11 00:54:57.999,3
+V24097,2026-05-11 00:54:40.532,EVT-000103,envio_preparado,2026-05-11 00:54:40,V24097,C494,JV012,Xbox,Tarjeta Débito,Luis,189.9,2,379.8,desconocido,Normal,Desconocido,0.93,True,2026-05-11 00:54:57.999,3
+V06805,2026-05-11 00:54:40.633,EVT-000104,venta_confirmada,2026-05-11 00:54:40,V06805,C468,JV015,PC,Tarjeta Débito,Ana,239.9,2,479.8,desconocido,Normal,Desconocido,0.44,False,2026-05-11 00:54:57.999,3
+V13708,2026-05-11 00:54:40.734,EVT-000105,venta_confirmada,2026-05-11 00:54:40,V13708,C131,JV004,Switch,Yape,Luis,279.9,1,279.9,desconocido,Normal,Desconocido,0.93,True,2026-05-11 00:54:57.999,3
+V30442,2026-05-11 00:54:40.835,EVT-000106,venta_creada,2026-05-11 00:54:40,V30442,C311,JV001,Switch,Yape,José,299.9,1,299.9,desconocido,Normal,Desconocido,0.91,True,2026-05-11 00:54:57.999,3
+V45352,2026-05-11 00:54:40.935,EVT-000107,venta_completada,2026-05-11 00:54:40,V45352,C318,JV014,PS4,Plin,Carlos,259.9,1,259.9,desconocido,Normal,Desconocido,0.01,False,2026-05-11 00:54:57.999,3
+V35926,2026-05-11 00:54:41.036,EVT-000108,envio_preparado,2026-05-11 00:54:41,V35926,C400,JV003,PS4,Tarjeta Débito,José,229.9,1,229.9,desconocido,Normal,Desconocido,0.04,False,2026-05-11 00:54:57.999,3
+V42607,2026-05-11 00:54:41.137,EVT-000109,pago_aprobado,2026-05-11 00:54:41,V42607,C311,JV011,PS4,Efectivo,Luis,219.9,2,439.8,desconocido,Normal,Desconocido,0.73,False,2026-05-11 00:54:57.999,3
+V20581,2026-05-11 00:54:41.238,EVT-000110,venta_confirmada,2026-05-11 00:54:41,V20581,C112,JV012,PC,Yape,José,189.9,3,569.7,desconocido,Normal,Desconocido,0.42,False,2026-05-11 00:54:57.999,3
+V33788,2026-05-11 00:54:41.338,EVT-000111,envio_preparado,2026-05-11 00:54:41,V33788,C311,JV007,PC,Efectivo,Luis,249.9,2,499.8,desconocido,Normal,Desconocido,0.24,False,2026-05-11 00:54:57.999,3
+V43343,2026-05-11 00:54:41.439,EVT-000112,pago_aprobado,2026-05-11 00:54:41,V43343,C049,JV003,Xbox,Yape,Carlos,229.9,2,459.8,desconocido,Normal,Desconocido,0.27,False,2026-05-11 00:54:57.999,3
+V03546,2026-05-11 00:54:41.540,EVT-000113,envio_preparado,2026-05-11 00:54:41,V03546,C290,JV009,Xbox,Plin,Ana,199.9,1,199.9,desconocido,Normal,Desconocido,0.01,False,2026-05-11 00:54:57.999,3
+V29218,2026-05-11 00:54:41.641,EVT-000114,pago_aprobado,2026-05-11 00:54:41,V29218,C275,JV007,Switch,Tarjeta Débito,Ana,249.9,1,249.9,desconocido,Normal,Desconocido,0.55,False,2026-05-11 00:54:57.999,3
+V30754,2026-05-11 00:54:41.741,EVT-000115,pago_aprobado,2026-05-11 00:54:41,V30754,C374,JV003,PS5,Plin,Luis,229.9,1,229.9,desconocido,Normal,Desconocido,0.2,False,2026-05-11 00:54:57.999,3
+V38686,2026-05-11 00:54:41.842,EVT-000116,envio_preparado,2026-05-11 00:54:41,V38686,C411,JV013,Switch,Yape,Ana,269.9,1,269.9,desconocido,Normal,Desconocido,0.58,False,2026-05-11 00:54:57.999,3
+V13866,2026-05-11 00:54:41.943,EVT-000117,venta_cancelada,2026-05-11 00:54:41,V13866,C269,JV008,PS5,Efectivo,María,239.9,1,239.9,desconocido,Normal,Desconocido,0.54,False,2026-05-11 00:54:57.999,3
+V43119,2026-05-11 00:54:42.044,EVT-000118,venta_confirmada,2026-05-11 00:54:42,V43119,C095,JV005,PC,Yape,María,299.9,1,299.9,desconocido,Normal,Desconocido,0.51,False,2026-05-11 00:54:57.999,3
+V17811,2026-05-11 00:54:42.145,EVT-000119,envio_preparado,2026-05-11 00:54:42,V17811,C222,JV002,PS5,Plin,Carlos,249.9,1,249.9,desconocido,Normal,Desconocido,0.92,True,2026-05-11 00:54:57.999,3
+V19563,2026-05-11 00:54:42.246,EVT-000120,pago_aprobado,2026-05-11 00:54:42,V19563,C081,JV007,PS4,Plin,Luis,249.9,1,249.9,desconocido,Normal,Desconocido,0.88,True,2026-05-11 00:54:57.999,3
+V07242,2026-05-11 00:54:42.347,EVT-000121,envio_preparado,2026-05-11 00:54:42,V07242,C099,JV004,PS4,Plin,Carlos,279.9,1,279.9,desconocido,Normal,Desconocido,0.06,False,2026-05-11 00:54:57.999,3
+V14911,2026-05-11 00:54:42.447,EVT-000122,envio_preparado,2026-05-11 00:54:42,V14911,C213,JV011,PS5,Yape,Carlos,219.9,1,219.9,desconocido,Normal,Desconocido,0.7,False,2026-05-11 00:54:57.999,3
+V07355,2026-05-11 00:54:42.548,EVT-000123,pago_aprobado,2026-05-11 00:54:42,V07355,C308,JV012,PS4,Yape,María,189.9,1,189.9,desconocido,Normal,Desconocido,0.05,False,2026-05-11 00:54:57.999,3
+V03984,2026-05-11 00:54:42.649,EVT-000124,venta_confirmada,2026-05-11 00:54:42,V03984,C127,JV004,PC,Plin,José,279.9,1,279.9,desconocido,Normal,Desconocido,0.41,False,2026-05-11 00:54:57.999,3
+V42055,2026-05-11 00:54:42.750,EVT-000125,pago_aprobado,2026-05-11 00:54:42,V42055,C112,JV012,PS4,Tarjeta Crédito,María,189.9,3,569.7,desconocido,Normal,Desconocido,0.22,False,2026-05-11 00:54:57.999,3
+V36899,2026-05-11 00:54:42.851,EVT-000126,venta_confirmada,2026-05-11 00:54:42,V36899,C046,JV020,PC,Yape,Luis,179.9,3,539.7,desconocido,Normal,Desconocido,0.36,False,2026-05-11 00:54:57.999,3
+V35231,2026-05-11 00:54:42.952,EVT-000127,venta_confirmada,2026-05-11 00:54:42,V35231,C239,JV010,Xbox,Tarjeta Débito,José,229.9,1,229.9,desconocido,Normal,Desconocido,0.42,False,2026-05-11 00:54:57.999,3
+V35109,2026-05-11 00:54:43.053,EVT-000128,venta_creada,2026-05-11 00:54:43,V35109,C471,JV012,PC,Tarjeta Débito,Ana,189.9,2,379.8,desconocido,Normal,Desconocido,0.74,False,2026-05-11 00:54:57.999,3
+V22140,2026-05-11 00:54:43.154,EVT-000129,pago_aprobado,2026-05-11 00:54:43,V22140,C155,JV010,PC,Yape,Luis,229.9,2,459.8,desconocido,Normal,Desconocido,0.68,False,2026-05-11 00:54:57.999,3
+V49560,2026-05-11 00:54:43.255,EVT-000130,venta_confirmada,2026-05-11 00:54:43,V49560,C211,JV014,PS4,Tarjeta Débito,José,259.9,1,259.9,desconocido,Normal,Desconocido,0.04,False,2026-05-11 00:54:57.999,3
+V44435,2026-05-11 00:54:43.356,EVT-000131,venta_confirmada,2026-05-11 00:54:43,V44435,C063,JV017,PC,Efectivo,Ana,219.9,1,219.9,desconocido,Normal,Desconocido,0.44,False,2026-05-11 00:54:57.999,3
+V22542,2026-05-11 00:54:43.456,EVT-000132,venta_confirmada,2026-05-11 00:54:43,V22542,C187,JV013,Xbox,Tarjeta Crédito,Luis,269.9,1,269.9,desconocido,Normal,Desconocido,0.51,False,2026-05-11 00:54:57.999,3
+V40704,2026-05-11 00:54:43.557,EVT-000133,pago_aprobado,2026-05-11 00:54:43,V40704,C429,JV009,Switch,Efectivo,Carlos,199.9,1,199.9,desconocido,Normal,Desconocido,0.84,True,2026-05-11 00:54:57.999,3
+V02568,2026-05-11 00:54:43.658,EVT-000134,venta_cancelada,2026-05-11 00:54:43,V02568,C222,JV020,Switch,Yape,Ana,179.9,2,359.8,desconocido,Normal,Desconocido,0.32,False,2026-05-11 00:54:57.999,3
+V30123,2026-05-11 00:54:43.759,EVT-000135,venta_confirmada,2026-05-11 00:54:43,V30123,C118,JV009,PC,Efectivo,Luis,199.9,1,199.9,desconocido,Normal,Desconocido,0.93,True,2026-05-11 00:54:57.999,3
+V36579,2026-05-11 00:54:43.860,EVT-000136,pago_aprobado,2026-05-11 00:54:43,V36579,C013,JV016,PC,Plin,Carlos,289.9,1,289.9,desconocido,Normal,Desconocido,0.56,False,2026-05-11 00:54:57.999,3
+V27649,2026-05-11 00:54:43.960,EVT-000137,pago_aprobado,2026-05-11 00:54:43,V27649,C425,JV012,Switch,Tarjeta Crédito,María,189.9,2,379.8,desconocido,Normal,Desconocido,0.44,False,2026-05-11 00:54:57.999,3
+V12985,2026-05-11 00:54:44.061,EVT-000138,venta_confirmada,2026-05-11 00:54:44,V12985,C301,JV009,PS5,Tarjeta Crédito,Luis,199.9,2,399.8,desconocido,Normal,Desconocido,0.54,False,2026-05-11 00:54:57.999,3
+V05032,2026-05-11 00:54:44.162,EVT-000139,venta_creada,2026-05-11 00:54:44,V05032,C392,JV003,PC,Tarjeta Débito,Luis,229.9,2,459.8,desconocido,Normal,Desconocido,0.78,True,2026-05-11 00:54:57.999,3
+V22424,2026-05-11 00:54:44.263,EVT-000140,venta_completada,2026-05-11 00:54:44,V22424,C223,JV019,Xbox,Tarjeta Crédito,Ana,249.9,2,499.8,desconocido,Normal,Desconocido,0.46,False,2026-05-11 00:54:57.999,3
+V37822,2026-05-11 00:54:44.366,EVT-000141,pago_aprobado,2026-05-11 00:54:44,V37822,C219,JV019,Switch,Efectivo,Carlos,249.9,1,249.9,desconocido,Normal,Desconocido,0.21,False,2026-05-11 00:54:57.999,3
+V11645,2026-05-11 00:54:44.468,EVT-000142,pago_aprobado,2026-05-11 00:54:44,V11645,C152,JV002,PC,Efectivo,María,249.9,1,249.9,desconocido,Normal,Desconocido,0.8,True,2026-05-11 00:54:57.999,3
+V39889,2026-05-11 00:54:44.569,EVT-000143,pago_aprobado,2026-05-11 00:54:44,V39889,C252,JV008,PS5,Efectivo,José,239.9,1,239.9,desconocido,Normal,Desconocido,0.13,False,2026-05-11 00:54:57.999,3
+V08656,2026-05-11 00:54:44.670,EVT-000144,envio_preparado,2026-05-11 00:54:44,V08656,C261,JV019,PS4,Plin,Ana,249.9,1,249.9,desconocido,Normal,Desconocido,0.87,True,2026-05-11 00:54:57.999,3
+V23116,2026-05-11 00:54:44.771,EVT-000145,venta_confirmada,2026-05-11 00:54:44,V23116,C113,JV013,PS5,Efectivo,José,269.9,2,539.8,desconocido,Normal,Desconocido,0.65,False,2026-05-11 00:54:57.999,3
+V17363,2026-05-11 00:54:44.872,EVT-000146,venta_creada,2026-05-11 00:54:44,V17363,C199,JV011,PC,Efectivo,Carlos,219.9,3,659.7,desconocido,Normal,Desconocido,0.6,False,2026-05-11 00:54:57.999,3
+V38669,2026-05-11 00:54:44.979,EVT-000147,venta_confirmada,2026-05-11 00:54:44,V38669,C031,JV012,PS5,Yape,María,189.9,1,189.9,desconocido,Normal,Desconocido,0.53,False,2026-05-11 00:54:57.999,3
+V41385,2026-05-11 00:54:45.081,EVT-000148,pago_aprobado,2026-05-11 00:54:45,V41385,C171,JV014,PS5,Yape,José,259.9,3,779.7,desconocido,Normal,Desconocido,0.36,False,2026-05-11 00:54:57.999,3
+V23176,2026-05-11 00:54:45.183,EVT-000149,venta_confirmada,2026-05-11 00:54:45,V23176,C311,JV013,PC,Tarjeta Débito,Luis,269.9,3,809.7,desconocido,Normal,Desconocido,0.57,False,2026-05-11 00:54:57.999,3
+V33093,2026-05-11 00:54:45.284,EVT-000150,venta_creada,2026-05-11 00:54:45,V33093,C376,JV012,Xbox,Plin,Luis,189.9,1,189.9,desconocido,Normal,Desconocido,0.82,True,2026-05-11 00:54:57.999,3
+V01978,2026-05-11 00:54:45.385,EVT-000151,venta_creada,2026-05-11 00:54:45,V01978,C367,JV019,PS4,Plin,José,249.9,1,249.9,desconocido,Normal,Desconocido,0.51,False,2026-05-11 00:54:57.999,3
+V26655,2026-05-11 00:54:45.486,EVT-000152,venta_completada,2026-05-11 00:54:45,V26655,C155,JV012,Switch,Yape,José,189.9,1,189.9,desconocido,Normal,Desconocido,0.2,False,2026-05-11 00:54:57.999,3
+V36374,2026-05-11 00:54:45.587,EVT-000153,venta_confirmada,2026-05-11 00:54:45,V36374,C455,JV019,PS4,Yape,María,249.9,2,499.8,desconocido,Normal,Desconocido,0.17,False,2026-05-11 00:54:57.999,3
+V46342,2026-05-11 00:54:45.688,EVT-000154,envio_preparado,2026-05-11 00:54:45,V46342,C004,JV013,PS5,Plin,Luis,269.9,2,539.8,desconocido,Normal,Desconocido,0.82,True,2026-05-11 00:54:57.999,3
+V22646,2026-05-11 00:54:45.790,EVT-000155,venta_creada,2026-05-11 00:54:45,V22646,C053,JV009,PS4,Yape,José,199.9,2,399.8,desconocido,Normal,Desconocido,0.81,True,2026-05-11 00:54:57.999,3
+V49168,2026-05-11 00:54:45.895,EVT-000156,venta_creada,2026-05-11 00:54:45,V49168,C493,JV017,PC,Tarjeta Crédito,Carlos,219.9,1,219.9,desconocido,Normal,Desconocido,0.18,False,2026-05-11 00:54:57.999,3
+V36226,2026-05-11 00:54:45.996,EVT-000157,pago_aprobado,2026-05-11 00:54:45,V36226,C246,JV014,Switch,Tarjeta Crédito,José,259.9,1,259.9,desconocido,Normal,Desconocido,0.34,False,2026-05-11 00:54:57.999,3
+V35803,2026-05-11 00:54:46.097,EVT-000158,venta_confirmada,2026-05-11 00:54:46,V35803,C273,JV009,PS5,Yape,Ana,199.9,1,199.9,desconocido,Normal,Desconocido,0.74,False,2026-05-11 00:54:57.999,3
+V12640,2026-05-11 00:54:46.198,EVT-000159,venta_completada,2026-05-11 00:54:46,V12640,C277,JV016,Xbox,Tarjeta Débito,Carlos,289.9,2,579.8,desconocido,Normal,Desconocido,0.5,False,2026-05-11 00:54:57.999,3
+V34440,2026-05-11 00:54:46.299,EVT-000160,venta_creada,2026-05-11 00:54:46,V34440,C392,JV007,Xbox,Tarjeta Débito,Carlos,249.9,1,249.9,desconocido,Normal,Desconocido,0.29,False,2026-05-11 00:54:57.999,3
+V09471,2026-05-11 00:54:46.400,EVT-000161,venta_creada,2026-05-11 00:54:46,V09471,C166,JV015,PC,Yape,José,239.9,1,239.9,desconocido,Normal,Desconocido,0.54,False,2026-05-11 00:54:57.999,3
+V40796,2026-05-11 00:54:46.501,EVT-000162,venta_creada,2026-05-11 00:54:46,V40796,C144,JV013,PS5,Plin,José,269.9,3,809.7,desconocido,Normal,Desconocido,0.13,False,2026-05-11 00:54:57.999,3
+V06657,2026-05-11 00:54:46.602,EVT-000163,venta_confirmada,2026-05-11 00:54:46,V06657,C149,JV012,Xbox,Yape,Luis,189.9,1,189.9,desconocido,Normal,Desconocido,0.72,False,2026-05-11 00:54:57.999,3
+V38454,2026-05-11 00:54:46.703,EVT-000164,pago_aprobado,2026-05-11 00:54:46,V38454,C098,JV003,PC,Tarjeta Débito,Ana,229.9,1,229.9,desconocido,Normal,Desconocido,0.9,True,2026-05-11 00:54:57.999,3
+V26186,2026-05-11 00:54:46.804,EVT-000165,venta_creada,2026-05-11 00:54:46,V26186,C224,JV009,PS5,Efectivo,Luis,199.9,1,199.9,desconocido,Normal,Desconocido,0.92,True,2026-05-11 00:54:57.999,3
+V12055,2026-05-11 00:54:46.905,EVT-000166,venta_creada,2026-05-11 00:54:46,V12055,C414,JV001,Xbox,Plin,Carlos,299.9,1,299.9,desconocido,Normal,Desconocido,0.65,False,2026-05-11 00:54:57.999,3
+V04745,2026-05-11 00:54:47.006,EVT-000167,venta_creada,2026-05-11 00:54:47,V04745,C184,JV017,Switch,Efectivo,Luis,219.9,2,439.8,desconocido,Normal,Desconocido,0.84,True,2026-05-11 00:54:57.999,3
+V05977,2026-05-11 00:54:47.107,EVT-000168,venta_confirmada,2026-05-11 00:54:47,V05977,C063,JV002,Xbox,Tarjeta Débito,Luis,249.9,3,749.7,desconocido,Normal,Desconocido,0.68,False,2026-05-11 00:54:57.999,3
+V22873,2026-05-11 00:54:47.207,EVT-000169,venta_confirmada,2026-05-11 00:54:47,V22873,C411,JV009,PS4,Plin,Ana,199.9,3,599.7,desconocido,Normal,Desconocido,0.52,False,2026-05-11 00:54:57.999,3
+V04337,2026-05-11 00:54:47.309,EVT-000170,venta_completada,2026-05-11 00:54:47,V04337,C169,JV003,PC,Plin,Luis,229.9,2,459.8,desconocido,Normal,Desconocido,0.62,False,2026-05-11 00:54:57.999,3
+V49744,2026-05-11 00:54:47.413,EVT-000171,venta_completada,2026-05-11 00:54:47,V49744,C113,JV005,PC,Tarjeta Débito,Carlos,299.9,3,899.7,desconocido,Normal,Desconocido,0.75,True,2026-05-11 00:54:57.999,3
+V07153,2026-05-11 00:54:47.514,EVT-000172,venta_creada,2026-05-11 00:54:47,V07153,C284,JV009,PS5,Yape,José,199.9,3,599.7,desconocido,Normal,Desconocido,0.27,False,2026-05-11 00:54:57.999,3
+V38345,2026-05-11 00:54:47.615,EVT-000173,venta_confirmada,2026-05-11 00:54:47,V38345,C094,JV009,PS5,Yape,José,199.9,2,399.8,desconocido,Normal,Desconocido,0.11,False,2026-05-11 00:54:57.999,3
+V19444,2026-05-11 00:54:47.716,EVT-000174,venta_completada,2026-05-11 00:54:47,V19444,C096,JV016,PS5,Yape,Luis,289.9,3,869.7,desconocido,Normal,Desconocido,0.78,True,2026-05-11 00:54:57.999,3
+V24183,2026-05-11 00:54:47.816,EVT-000175,venta_confirmada,2026-05-11 00:54:47,V24183,C059,JV011,Xbox,Yape,Luis,219.9,2,439.8,desconocido,Normal,Desconocido,0.36,False,2026-05-11 00:54:57.999,3
+V08632,2026-05-11 00:54:47.918,EVT-000176,envio_preparado,2026-05-11 00:54:47,V08632,C266,JV019,Xbox,Tarjeta Crédito,Ana,249.9,1,249.9,desconocido,Normal,Desconocido,0.29,False,2026-05-11 00:54:57.999,3
+V04411,2026-05-11 00:54:48.019,EVT-000177,pago_aprobado,2026-05-11 00:54:48,V04411,C302,JV008,PC,Yape,Ana,239.9,1,239.9,desconocido,Normal,Desconocido,0.61,False,2026-05-11 00:54:57.999,3
+V03196,2026-05-11 00:54:48.120,EVT-000178,venta_creada,2026-05-11 00:54:48,V03196,C013,JV004,PS5,Tarjeta Débito,Ana,279.9,2,559.8,desconocido,Normal,Desconocido,0.02,False,2026-05-11 00:54:57.999,3
+V04777,2026-05-11 00:54:48.221,EVT-000179,venta_completada,2026-05-11 00:54:48,V04777,C095,JV006,Switch,Tarjeta Crédito,Ana,219.9,2,439.8,desconocido,Normal,Desconocido,0.4,False,2026-05-11 00:54:57.999,3
+V40063,2026-05-11 00:54:48.322,EVT-000180,venta_confirmada,2026-05-11 00:54:48,V40063,C133,JV019,PC,Plin,Ana,249.9,1,249.9,desconocido,Normal,Desconocido,0.83,True,2026-05-11 00:54:57.999,3
+V49419,2026-05-11 00:54:48.424,EVT-000181,venta_creada,2026-05-11 00:54:48,V49419,C416,JV009,Switch,Tarjeta Débito,José,199.9,3,599.7,desconocido,Normal,Desconocido,0.84,True,2026-05-11 00:54:57.999,3
+V37862,2026-05-11 00:54:48.525,EVT-000182,venta_confirmada,2026-05-11 00:54:48,V37862,C361,JV018,PS4,Yape,José,129.9,1,129.9,desconocido,Normal,Desconocido,0.85,True,2026-05-11 00:54:57.999,3
+V19980,2026-05-11 00:54:48.625,EVT-000183,venta_confirmada,2026-05-11 00:54:48,V19980,C450,JV001,PC,Efectivo,Carlos,299.9,1,299.9,desconocido,Normal,Desconocido,0.52,False,2026-05-11 00:54:57.999,3
+V21872,2026-05-11 00:54:48.726,EVT-000184,envio_preparado,2026-05-11 00:54:48,V21872,C238,JV017,PC,Tarjeta Crédito,Luis,219.9,3,659.7,desconocido,Normal,Desconocido,0.51,False,2026-05-11 00:54:57.999,3
+V25514,2026-05-11 00:54:48.827,EVT-000185,venta_confirmada,2026-05-11 00:54:48,V25514,C424,JV018,PS5,Yape,Carlos,129.9,1,129.9,desconocido,Normal,Desconocido,0.64,False,2026-05-11 00:54:57.999,3
+V30251,2026-05-11 00:54:48.927,EVT-000186,venta_creada,2026-05-11 00:54:48,V30251,C183,JV002,Switch,Tarjeta Crédito,José,249.9,3,749.7,desconocido,Normal,Desconocido,0.92,True,2026-05-11 00:54:57.999,3
+V48902,2026-05-11 00:54:49.028,EVT-000187,venta_completada,2026-05-11 00:54:49,V48902,C491,JV010,Xbox,Plin,Luis,229.9,1,229.9,desconocido,Normal,Desconocido,0.72,False,2026-05-11 00:54:57.999,3
+V18241,2026-05-11 00:54:49.129,EVT-000188,venta_confirmada,2026-05-11 00:54:49,V18241,C384,JV003,Xbox,Plin,José,229.9,2,459.8,desconocido,Normal,Desconocido,0.05,False,2026-05-11 00:54:57.999,3
+V23975,2026-05-11 00:54:49.229,EVT-000189,pago_aprobado,2026-05-11 00:54:49,V23975,C380,JV013,PC,Yape,Luis,269.9,3,809.7,desconocido,Normal,Desconocido,0.74,False,2026-05-11 00:54:57.999,3
+V12427,2026-05-11 00:54:49.330,EVT-000190,venta_completada,2026-05-11 00:54:49,V12427,C161,JV017,Switch,Tarjeta Débito,Carlos,219.9,3,659.7,desconocido,Normal,Desconocido,0.61,False,2026-05-11 00:54:57.999,3
+V09817,2026-05-11 00:54:49.431,EVT-000191,venta_confirmada,2026-05-11 00:54:49,V09817,C083,JV003,PS5,Efectivo,Ana,229.9,1,229.9,desconocido,Normal,Desconocido,0.02,False,2026-05-11 00:54:57.999,3
+V23711,2026-05-11 00:54:49.532,EVT-000192,venta_creada,2026-05-11 00:54:49,V23711,C429,JV009,PS5,Tarjeta Crédito,Carlos,199.9,1,199.9,desconocido,Normal,Desconocido,0.16,False,2026-05-11 00:54:57.999,3
+V08227,2026-05-11 00:54:49.632,EVT-000193,venta_creada,2026-05-11 00:54:49,V08227,C100,JV009,PS5,Efectivo,José,199.9,1,199.9,desconocido,Normal,Desconocido,0.77,True,2026-05-11 00:54:57.999,3
+V26586,2026-05-11 00:54:49.733,EVT-000194,venta_creada,2026-05-11 00:54:49,V26586,C089,JV008,PS5,Efectivo,Ana,239.9,3,719.7,desconocido,Normal,Desconocido,0.45,False,2026-05-11 00:54:57.999,3
+V07680,2026-05-11 00:54:49.834,EVT-000195,venta_completada,2026-05-11 00:54:49,V07680,C180,JV018,PS4,Plin,Ana,129.9,3,389.7,desconocido,Normal,Desconocido,0.27,False,2026-05-11 00:54:57.999,3
+V38527,2026-05-11 00:54:49.935,EVT-000196,venta_confirmada,2026-05-11 00:54:49,V38527,C129,JV004,PS5,Plin,María,279.9,1,279.9,desconocido,Normal,Desconocido,0.37,False,2026-05-11 00:54:57.999,3
+V02118,2026-05-11 00:54:50.036,EVT-000197,venta_confirmada,2026-05-11 00:54:50,V02118,C248,JV014,Xbox,Tarjeta Débito,Luis,259.9,2,519.8,desconocido,Normal,Desconocido,0.9,True,2026-05-11 00:54:57.999,3
+V06324,2026-05-11 00:54:50.136,EVT-000198,venta_completada,2026-05-11 00:54:50,V06324,C335,JV011,PS4,Tarjeta Crédito,Carlos,219.9,1,219.9,desconocido,Normal,Desconocido,0.09,False,2026-05-11 00:54:57.999,3
+V18470,2026-05-11 00:54:50.237,EVT-000199,pago_aprobado,2026-05-11 00:54:50,V18470,C439,JV006,Xbox,Yape,María,219.9,1,219.9,desconocido,Normal,Desconocido,0.6,False,2026-05-11 00:54:57.999,3
+V09416,2026-05-11 00:54:50.338,EVT-000200,venta_confirmada,2026-05-11 00:54:50,V09416,C466,JV009,Switch,Plin,Ana,199.9,2,399.8,desconocido,Normal,Desconocido,0.64,False,2026-05-11 00:54:57.999,3
+V09010,2026-05-11 00:54:50.442,EVT-000201,venta_creada,2026-05-11 00:54:50,V09010,C405,JV010,PS5,Tarjeta Crédito,Ana,229.9,1,229.9,desconocido,Normal,Desconocido,0.3,False,2026-05-11 00:54:57.999,3
+V38215,2026-05-11 00:54:50.544,EVT-000202,venta_creada,2026-05-11 00:54:50,V38215,C187,JV002,PS4,Tarjeta Débito,José,249.9,1,249.9,desconocido,Normal,Desconocido,0.36,False,2026-05-11 00:54:57.999,3
+V31635,2026-05-11 00:54:50.645,EVT-000203,venta_creada,2026-05-11 00:54:50,V31635,C029,JV009,Switch,Tarjeta Débito,Ana,199.9,1,199.9,desconocido,Normal,Desconocido,0.58,False,2026-05-11 00:54:57.999,3
+V07694,2026-05-11 00:54:50.749,EVT-000204,venta_confirmada,2026-05-11 00:54:50,V07694,C158,JV006,PS5,Tarjeta Débito,María,219.9,1,219.9,desconocido,Normal,Desconocido,0.71,False,2026-05-11 00:54:57.999,3
+V28981,2026-05-11 00:54:50.850,EVT-000205,pago_aprobado,2026-05-11 00:54:50,V28981,C282,JV020,PC,Efectivo,Ana,179.9,1,179.9,desconocido,Normal,Desconocido,0.72,False,2026-05-11 00:54:57.999,3
+V25815,2026-05-11 00:54:50.950,EVT-000206,venta_confirmada,2026-05-11 00:54:50,V25815,C429,JV017,Switch,Plin,María,219.9,2,439.8,desconocido,Normal,Desconocido,0.42,False,2026-05-11 00:54:57.999,3
+V06715,2026-05-11 00:54:51.051,EVT-000207,pago_aprobado,2026-05-11 00:54:51,V06715,C159,JV006,Switch,Efectivo,María,219.9,2,439.8,desconocido,Normal,Desconocido,0.59,False,2026-05-11 00:54:57.999,3
+V34690,2026-05-11 00:54:51.152,EVT-000208,venta_creada,2026-05-11 00:54:51,V34690,C007,JV015,Xbox,Tarjeta Débito,José,239.9,2,479.8,desconocido,Normal,Desconocido,0.36,False,2026-05-11 00:54:57.999,3
+V20555,2026-05-11 00:54:51.254,EVT-000209,envio_preparado,2026-05-11 00:54:51,V20555,C263,JV018,PS4,Tarjeta Débito,Luis,129.9,1,129.9,desconocido,Normal,Desconocido,0.14,False,2026-05-11 00:54:57.999,3
+V04565,2026-05-11 00:54:51.358,EVT-000210,venta_confirmada,2026-05-11 00:54:51,V04565,C173,JV009,PS4,Plin,María,199.9,3,599.7,desconocido,Normal,Desconocido,0.33,False,2026-05-11 00:54:57.999,3
+V34177,2026-05-11 00:54:51.463,EVT-000211,venta_confirmada,2026-05-11 00:54:51,V34177,C427,JV018,PS5,Plin,Ana,129.9,1,129.9,desconocido,Normal,Desconocido,0.04,False,2026-05-11 00:54:57.999,3
+V45390,2026-05-11 00:54:51.564,EVT-000212,pago_aprobado,2026-05-11 00:54:51,V45390,C268,JV006,PC,Efectivo,Luis,219.9,1,219.9,desconocido,Normal,Desconocido,0.83,True,2026-05-11 00:54:57.999,3
+V02960,2026-05-11 00:54:51.666,EVT-000213,venta_cancelada,2026-05-11 00:54:51,V02960,C358,JV012,PC,Tarjeta Débito,María,189.9,1,189.9,desconocido,Normal,Desconocido,0.49,False,2026-05-11 00:54:57.999,3
+V45200,2026-05-11 00:54:51.767,EVT-000214,venta_completada,2026-05-11 00:54:51,V45200,C041,JV010,PS5,Plin,María,229.9,2,459.8,desconocido,Normal,Desconocido,0.51,False,2026-05-11 00:54:57.999,3
+V20477,2026-05-11 00:54:51.868,EVT-000215,venta_creada,2026-05-11 00:54:51,V20477,C452,JV020,Switch,Tarjeta Crédito,Ana,179.9,3,539.7,desconocido,Normal,Desconocido,0.03,False,2026-05-11 00:54:57.999,3
+V29913,2026-05-11 00:54:51.968,EVT-000216,pago_aprobado,2026-05-11 00:54:51,V29913,C378,JV002,PS4,Tarjeta Crédito,Carlos,249.9,2,499.8,desconocido,Normal,Desconocido,0.51,False,2026-05-11 00:54:57.999,3
+V17671,2026-05-11 00:54:52.069,EVT-000217,venta_creada,2026-05-11 00:54:52,V17671,C169,JV015,Xbox,Efectivo,José,239.9,2,479.8,desconocido,Normal,Desconocido,0.06,False,2026-05-11 00:54:57.999,3
+V44779,2026-05-11 00:54:52.170,EVT-000218,venta_creada,2026-05-11 00:54:52,V44779,C183,JV002,PS4,Yape,Ana,249.9,1,249.9,desconocido,Normal,Desconocido,0.23,False,2026-05-11 00:54:57.999,3
+V39205,2026-05-11 00:54:52.275,EVT-000219,venta_confirmada,2026-05-11 00:54:52,V39205,C376,JV012,Switch,Plin,José,189.9,3,569.7,desconocido,Normal,Desconocido,0.53,False,2026-05-11 00:54:57.999,3
+V36322,2026-05-11 00:54:52.376,EVT-000220,envio_preparado,2026-05-11 00:54:52,V36322,C452,JV009,Xbox,Plin,Carlos,199.9,1,199.9,desconocido,Normal,Desconocido,0.81,True,2026-05-11 00:54:57.999,3
+V18021,2026-05-11 00:54:52.476,EVT-000221,venta_confirmada,2026-05-11 00:54:52,V18021,C375,JV011,Xbox,Yape,María,219.9,2,439.8,desconocido,Normal,Desconocido,0.16,False,2026-05-11 00:54:57.999,3
+V25416,2026-05-11 00:54:52.577,EVT-000222,pago_aprobado,2026-05-11 00:54:52,V25416,C114,JV019,PC,Tarjeta Débito,María,249.9,2,499.8,desconocido,Normal,Desconocido,0.02,False,2026-05-11 00:54:57.999,3
+V02306,2026-05-11 00:54:52.678,EVT-000223,envio_preparado,2026-05-11 00:54:52,V02306,C335,JV011,PC,Tarjeta Crédito,José,219.9,2,439.8,desconocido,Normal,Desconocido,0.02,False,2026-05-11 00:54:57.999,3
+V01361,2026-05-11 00:54:52.779,EVT-000224,venta_creada,2026-05-11 00:54:52,V01361,C205,JV010,Switch,Tarjeta Débito,Luis,229.9,1,229.9,desconocido,Normal,Desconocido,0.79,True,2026-05-11 00:54:57.999,3
+V09146,2026-05-11 00:54:52.880,EVT-000225,venta_completada,2026-05-11 00:54:52,V09146,C289,JV002,PS4,Yape,Carlos,249.9,2,499.8,desconocido,Normal,Desconocido,0.72,False,2026-05-11 00:54:57.999,3
+V37525,2026-05-11 00:54:52.980,EVT-000226,venta_cancelada,2026-05-11 00:54:52,V37525,C434,JV014,PC,Yape,Ana,259.9,2,519.8,desconocido,Normal,Desconocido,0.84,True,2026-05-11 00:54:57.999,3
+V10832,2026-05-11 00:54:53.081,EVT-000227,venta_confirmada,2026-05-11 00:54:53,V10832,C269,JV009,Switch,Tarjeta Débito,Ana,199.9,3,599.7,desconocido,Normal,Desconocido,0.45,False,2026-05-11 00:54:57.999,3
+V11148,2026-05-11 00:54:53.181,EVT-000228,envio_preparado,2026-05-11 00:54:53,V11148,C159,JV010,PC,Plin,Carlos,229.9,2,459.8,desconocido,Normal,Desconocido,0.35,False,2026-05-11 00:54:57.999,3
+V37789,2026-05-11 00:54:53.282,EVT-000229,pago_aprobado,2026-05-11 00:54:53,V37789,C013,JV001,PC,Tarjeta Débito,Carlos,299.9,2,599.8,desconocido,Normal,Desconocido,0.91,True,2026-05-11 00:54:57.999,3
+V11492,2026-05-11 00:54:53.383,EVT-000230,venta_creada,2026-05-11 00:54:53,V11492,C469,JV010,Xbox,Efectivo,Luis,229.9,1,229.9,desconocido,Normal,Desconocido,0.53,False,2026-05-11 00:54:57.999,3
+V42815,2026-05-11 00:54:53.484,EVT-000231,venta_cancelada,2026-05-11 00:54:53,V42815,C304,JV011,PS5,Tarjeta Crédito,María,219.9,1,219.9,desconocido,Normal,Desconocido,0.55,False,2026-05-11 00:54:57.999,3
+V42550,2026-05-11 00:54:53.585,EVT-000232,envio_preparado,2026-05-11 00:54:53,V42550,C001,JV010,PC,Tarjeta Crédito,María,229.9,1,229.9,desconocido,Normal,Desconocido,0.15,False,2026-05-11 00:54:57.999,3
+V12666,2026-05-11 00:54:53.686,EVT-000233,pago_aprobado,2026-05-11 00:54:53,V12666,C082,JV014,PS5,Plin,Carlos,259.9,3,779.7,desconocido,Normal,Desconocido,0.14,False,2026-05-11 00:54:57.999,3
+V14505,2026-05-11 00:54:53.787,EVT-000234,pago_aprobado,2026-05-11 00:54:53,V14505,C472,JV010,PS5,Plin,Luis,229.9,1,229.9,desconocido,Normal,Desconocido,0.76,True,2026-05-11 00:54:57.999,3
+V12754,2026-05-11 00:54:53.887,EVT-000235,pago_aprobado,2026-05-11 00:54:53,V12754,C230,JV004,PS5,Yape,José,279.9,1,279.9,desconocido,Normal,Desconocido,0.45,False,2026-05-11 00:54:57.999,3
+V01924,2026-05-11 00:54:53.988,EVT-000236,venta_cancelada,2026-05-11 00:54:53,V01924,C499,JV011,Xbox,Efectivo,María,219.9,1,219.9,desconocido,Normal,Desconocido,0.19,False,2026-05-11 00:54:57.999,3
+V16554,2026-05-11 00:54:54.089,EVT-000237,venta_confirmada,2026-05-11 00:54:54,V16554,C234,JV013,Switch,Tarjeta Débito,Luis,269.9,1,269.9,desconocido,Normal,Desconocido,0.76,True,2026-05-11 00:54:57.999,3
+V16650,2026-05-11 00:54:54.192,EVT-000238,venta_confirmada,2026-05-11 00:54:54,V16650,C154,JV011,PC,Plin,Ana,219.9,1,219.9,desconocido,Normal,Desconocido,0.1,False,2026-05-11 00:54:57.999,3
+V20746,2026-05-11 00:54:54.298,EVT-000239,venta_completada,2026-05-11 00:54:54,V20746,C315,JV012,PC,Plin,José,189.9,1,189.9,desconocido,Normal,Desconocido,0.53,False,2026-05-11 00:54:57.999,3
+V09233,2026-05-11 00:54:54.399,EVT-000240,pago_aprobado,2026-05-11 00:54:54,V09233,C449,JV017,PC,Yape,Luis,219.9,1,219.9,desconocido,Normal,Desconocido,0.31,False,2026-05-11 00:54:57.999,3
+V37510,2026-05-11 00:54:54.501,EVT-000241,pago_aprobado,2026-05-11 00:54:54,V37510,C004,JV018,PS5,Plin,Luis,129.9,1,129.9,desconocido,Normal,Desconocido,0.37,False,2026-05-11 00:54:57.999,3
+V07955,2026-05-11 00:54:54.602,EVT-000242,pago_aprobado,2026-05-11 00:54:54,V07955,C297,JV020,PC,Yape,Carlos,179.9,2,359.8,desconocido,Normal,Desconocido,0.29,False,2026-05-11 00:54:57.999,3
+V33555,2026-05-11 00:54:54.710,EVT-000243,venta_creada,2026-05-11 00:54:54,V33555,C293,JV002,PS4,Tarjeta Débito,José,249.9,1,249.9,desconocido,Normal,Desconocido,0.2,False,2026-05-11 00:54:57.999,3
+V19442,2026-05-11 00:54:54.815,EVT-000244,venta_cancelada,2026-05-11 00:54:54,V19442,C087,JV008,Xbox,Tarjeta Débito,José,239.9,1,239.9,desconocido,Normal,Desconocido,0.66,False,2026-05-11 00:54:57.999,3
+V37887,2026-05-11 00:54:54.916,EVT-000245,venta_completada,2026-05-11 00:54:54,V37887,C036,JV004,PS4,Tarjeta Débito,Carlos,279.9,2,559.8,desconocido,Normal,Desconocido,0.31,False,2026-05-11 00:54:57.999,3
+V15045,2026-05-11 00:54:55.017,EVT-000246,venta_creada,2026-05-11 00:54:55,V15045,C343,JV008,PS4,Tarjeta Crédito,José,239.9,1,239.9,desconocido,Normal,Desconocido,0.58,False,2026-05-11 00:54:57.999,3
+V30348,2026-05-11 00:54:55.129,EVT-000247,venta_completada,2026-05-11 00:54:55,V30348,C054,JV010,PS4,Yape,José,229.9,2,459.8,desconocido,Normal,Desconocido,0.52,False,2026-05-11 00:54:57.999,3
+V23164,2026-05-11 00:54:55.235,EVT-000248,pago_aprobado,2026-05-11 00:54:55,V23164,C112,JV005,PC,Efectivo,José,299.9,2,599.8,desconocido,Normal,Desconocido,0.14,False,2026-05-11 00:54:57.999,3
+V15311,2026-05-11 00:54:55.336,EVT-000249,venta_confirmada,2026-05-11 00:54:55,V15311,C342,JV015,Switch,Tarjeta Débito,María,239.9,1,239.9,desconocido,Normal,Desconocido,0.3,False,2026-05-11 00:54:57.999,3
+V39866,2026-05-11 00:54:55.436,EVT-000250,venta_creada,2026-05-11 00:54:55,V39866,C267,JV004,PS5,Plin,Carlos,279.9,1,279.9,desconocido,Normal,Desconocido,0.31,False,2026-05-11 00:54:57.999,3
+V24492,2026-05-11 00:54:55.539,EVT-000251,venta_confirmada,2026-05-11 00:54:55,V24492,C331,JV006,Switch,Tarjeta Débito,María,219.9,1,219.9,desconocido,Normal,Desconocido,0.74,False,2026-05-11 00:54:57.999,3
+V06785,2026-05-11 00:54:55.640,EVT-000252,venta_confirmada,2026-05-11 00:54:55,V06785,C097,JV011,PC,Tarjeta Crédito,José,219.9,1,219.9,desconocido,Normal,Desconocido,0.8,True,2026-05-11 00:54:57.999,3
+V43227,2026-05-11 00:54:55.742,EVT-000253,venta_completada,2026-05-11 00:54:55,V43227,C429,JV013,Xbox,Tarjeta Débito,José,269.9,1,269.9,desconocido,Normal,Desconocido,0.41,False,2026-05-11 00:54:57.999,3
+V37613,2026-05-11 00:54:55.845,EVT-000254,venta_creada,2026-05-11 00:54:55,V37613,C231,JV019,Xbox,Tarjeta Crédito,Ana,249.9,1,249.9,desconocido,Normal,Desconocido,0.34,False,2026-05-11 00:54:57.999,3
+V35312,2026-05-11 00:54:55.946,EVT-000255,venta_completada,2026-05-11 00:54:55,V35312,C483,JV020,PC,Efectivo,Ana,179.9,1,179.9,desconocido,Normal,Desconocido,0.66,False,2026-05-11 00:54:57.999,3
+V49906,2026-05-11 00:54:56.047,EVT-000256,venta_completada,2026-05-11 00:54:56,V49906,C379,JV019,Switch,Efectivo,Carlos,249.9,2,499.8,desconocido,Normal,Desconocido,0.71,False,2026-05-11 00:54:57.999,3
+V39652,2026-05-11 00:54:56.148,EVT-000257,pago_aprobado,2026-05-11 00:54:56,V39652,C072,JV014,PS4,Efectivo,Ana,259.9,1,259.9,desconocido,Normal,Desconocido,0.29,False,2026-05-11 00:54:57.999,3
+V42908,2026-05-11 00:54:56.250,EVT-000258,pago_aprobado,2026-05-11 00:54:56,V42908,C315,JV019,PS5,Plin,María,249.9,1,249.9,desconocido,Normal,Desconocido,0.49,False,2026-05-11 00:54:57.999,3
+V35077,2026-05-11 00:54:56.329,EVT-000259,pago_aprobado,2026-05-11 00:54:56,V35077,C178,JV003,Switch,Yape,María,229.9,1,229.9,desconocido,Normal,Desconocido,0.42,False,2026-05-11 00:54:57.999,3
+V36953,2026-05-11 00:54:56.430,EVT-000260,venta_cancelada,2026-05-11 00:54:56,V36953,C191,JV012,PS4,Plin,María,189.9,2,379.8,desconocido,Normal,Desconocido,0.38,False,2026-05-11 00:54:57.999,3
+V25907,2026-05-11 00:54:56.531,EVT-000261,envio_preparado,2026-05-11 00:54:56,V25907,C001,JV008,Switch,Yape,Carlos,239.9,2,479.8,desconocido,Normal,Desconocido,0.54,False,2026-05-11 00:54:57.999,3
+V04805,2026-05-11 00:54:56.632,EVT-000262,envio_preparado,2026-05-11 00:54:56,V04805,C404,JV013,PS4,Plin,José,269.9,2,539.8,desconocido,Normal,Desconocido,0.75,True,2026-05-11 00:54:57.999,3
+V05311,2026-05-11 00:54:56.743,EVT-000263,pago_aprobado,2026-05-11 00:54:56,V05311,C293,JV005,PS4,Efectivo,Carlos,299.9,1,299.9,desconocido,Normal,Desconocido,0.7,False,2026-05-11 00:54:57.999,3
+V15597,2026-05-11 00:54:56.844,EVT-000264,venta_confirmada,2026-05-11 00:54:56,V15597,C160,JV009,PS4,Plin,María,199.9,1,199.9,desconocido,Normal,Desconocido,0.35,False,2026-05-11 00:54:57.999,3
+V02981,2026-05-11 00:54:56.945,EVT-000265,envio_preparado,2026-05-11 00:54:56,V02981,C483,JV006,PS4,Tarjeta Débito,Luis,219.9,3,659.7,desconocido,Normal,Desconocido,0.91,True,2026-05-11 00:54:57.999,3
+V08624,2026-05-11 00:54:57.073,EVT-000266,pago_aprobado,2026-05-11 00:54:57,V08624,C477,JV005,Xbox,Plin,María,299.9,2,599.8,desconocido,Normal,Desconocido,0.75,True,2026-05-11 00:54:57.999,3
+V11559,2026-05-11 00:54:57.174,EVT-000267,envio_preparado,2026-05-11 00:54:57,V11559,C075,JV009,PS5,Yape,Luis,199.9,3,599.7,desconocido,Normal,Desconocido,0.91,True,2026-05-11 00:54:57.999,3
+V36632,2026-05-11 00:54:57.275,EVT-000268,venta_creada,2026-05-11 00:54:57,V36632,C251,JV018,PC,Plin,José,129.9,1,129.9,desconocido,Normal,Desconocido,0.8,True,2026-05-11 00:54:57.999,3
+V25950,2026-05-11 00:54:57.377,EVT-000269,venta_completada,2026-05-11 00:54:57,V25950,C402,JV017,Switch,Tarjeta Débito,María,219.9,3,659.7,desconocido,Normal,Desconocido,0.21,False,2026-05-11 00:54:57.999,3
+V14606,2026-05-11 00:54:57.480,EVT-000270,envio_preparado,2026-05-11 00:54:57,V14606,C420,JV007,Xbox,Tarjeta Débito,José,249.9,1,249.9,desconocido,Normal,Desconocido,0.78,True,2026-05-11 00:54:57.999,3
+V40455,2026-05-11 00:54:57.582,EVT-000271,envio_preparado,2026-05-11 00:54:57,V40455,C042,JV003,PS5,Tarjeta Débito,Carlos,229.9,3,689.7,desconocido,Normal,Desconocido,0.77,True,2026-05-11 00:54:57.999,3
+V13810,2026-05-11 00:54:57.682,EVT-000272,pago_aprobado,2026-05-11 00:54:57,V13810,C310,JV013,PC,Efectivo,Luis,269.9,3,809.7,desconocido,Normal,Desconocido,0.15,False,2026-05-11 00:54:57.999,3
+V46440,2026-05-11 00:54:57.783,EVT-000273,venta_creada,2026-05-11 00:54:57,V46440,C129,JV010,PS4,Yape,José,229.9,2,459.8,desconocido,Normal,Desconocido,0.78,True,2026-05-11 00:54:57.999,3
+V08463,2026-05-11 00:54:57.884,EVT-000274,pago_aprobado,2026-05-11 00:54:57,V08463,C105,JV009,Switch,Yape,José,199.9,3,599.7,desconocido,Normal,Desconocido,0.58,False,2026-05-11 00:54:57.999,3
+V12407,2026-05-11 00:54:57.985,EVT-000275,venta_creada,2026-05-11 00:54:57,V12407,C227,JV020,Switch,Tarjeta Débito,José,179.9,1,179.9,desconocido,Normal,Desconocido,0.92,True,2026-05-11 00:54:57.999,3
