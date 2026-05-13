@@ -1,0 +1,11 @@
+juego_id,titulo,categoria,total_unidades,num_transacciones,ingresos_total,rating_promedio
+JV005,Marvel's Spider-Man 2,Acción,4088,2546,1225991.2,3.96
+JV002,Elden Ring,RPG,4001,2552,999849.9,3.96
+JV004,The Legend of Zelda: Tears of the Kingdom,Aventura,3994,2545,1117920.6,3.99
+JV018,Minecraft,Simulación,3989,2470,518171.1,4.0
+JV009,Mario Kart 8 Deluxe,Carreras,3948,2515,789205.2,4.05
+JV007,Call of Duty: Modern Warfare III,Acción,3935,2488,983356.5,4.03
+JV016,Final Fantasy XVI,RPG,3932,2531,1139886.8,4.02
+JV006,Hogwarts Legacy,RPG,3927,2513,863547.3,3.95
+JV020,Cyberpunk 2077,RPG,3921,2505,705387.9,3.93
+JV003,FIFA 24,Deportes,3909,2526,898679.1,4.0

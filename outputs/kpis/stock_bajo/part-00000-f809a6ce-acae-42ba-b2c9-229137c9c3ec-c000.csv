@@ -1,0 +1,596 @@
+juego_id,titulo,plataforma,stock,umbral,precio
+JV0412,Final Fantasy XVI,PC,0,3,153.94
+JV0413,Baldur's Gate 3,PC,0,10,222.78
+JV0426,Call of Duty MW3,Xbox,0,3,188.13
+JV0433,Spider-Man 2,PS5,0,3,145.76
+JV0435,Mortal Kombat 1,Switch,0,8,203.1
+JV0449,Call of Duty MW3,Xbox,0,3,229.1
+JV0454,Dead Space Remake,PS5,0,6,259.33
+JV0457,Zelda TOTK,Xbox,0,8,226.13
+JV0488,Hogwarts Legacy,Switch,0,3,241.01
+JV0494,Spider-Man 2,Switch,0,5,273.73
+JV0501,Mario Kart 8 Deluxe,Switch,0,10,285.94
+JV0506,Dead Space Remake,Switch,0,8,209.6
+JV0525,Zelda TOTK,PC,0,4,237.89
+JV0528,Gran Turismo 7,Switch,0,3,257.02
+JV0544,Cyberpunk 2077,Switch,0,3,120.14
+JV0546,Super Mario Wonder,PS5,0,6,297.99
+JV0555,Zelda TOTK,Xbox,0,7,160.99
+JV0566,Super Mario Wonder,PS5,0,6,200.02
+JV0570,Final Fantasy XVI,PS5,0,3,294.46
+JV0589,Spider-Man 2,PS5,0,6,223.85
+JV0590,Dead Space Remake,Xbox,0,4,144.29
+JV0592,God of War Ragnarök,Xbox,0,7,122.96
+JV0598,Zelda TOTK,PC,0,6,140.51
+JV0615,Hogwarts Legacy,Xbox,0,5,154.67
+JV0630,Super Mario Wonder,PS4,0,9,150.98
+JV0633,Minecraft,Xbox,0,6,135.18
+JV0668,Minecraft,Xbox,0,10,240.78
+JV0673,Hogwarts Legacy,PS5,0,7,250.77
+JV0690,God of War Ragnarök,Xbox,0,4,225.56
+JV0707,Hogwarts Legacy,PS5,0,10,284.11
+JV0721,Dead Space Remake,PS5,0,4,165.44
+JV0749,Minecraft,PC,0,9,182.42
+JV0758,Baldur's Gate 3,Switch,0,10,258.02
+JV0761,Cyberpunk 2077,PC,0,8,178.66
+JV0766,Zelda TOTK,Xbox,0,10,236.69
+JV0784,Mortal Kombat 1,PS5,0,8,284.18
+JV0812,Baldur's Gate 3,PS5,0,5,277.54
+JV0825,Mario Kart 8 Deluxe,PS5,0,6,170.97
+JV0832,Gran Turismo 7,PS5,0,6,140.68
+JV0845,Spider-Man 2,PC,0,7,165.87
+JV0860,Zelda TOTK,PC,0,9,219.21
+JV0866,Gran Turismo 7,PS4,0,10,117.79
+JV0892,Final Fantasy XVI,PC,0,5,204.43
+JV0910,Diablo IV,PS4,0,10,225.95
+JV0926,God of War Ragnarök,PS5,0,4,288.83
+JV0939,Dead Space Remake,PS4,0,5,240.99
+JV0947,Cyberpunk 2077,PS5,0,5,140.22
+JV0949,Mario Kart 8 Deluxe,Switch,0,4,193.49
+JV0956,Call of Duty MW3,PC,0,5,208.57
+JV0972,Dead Space Remake,PS5,0,8,148.22
+JV0975,Spider-Man 2,PS4,0,6,183.87
+JV0981,Zelda TOTK,PS5,0,8,284.17
+JV0991,Hogwarts Legacy,Xbox,0,10,299.99
+JV0993,Minecraft,Xbox,0,5,206.76
+JV0001,Minecraft,PS5,0,8,287.66
+JV0024,Elden Ring,PS5,0,5,121.08
+JV0026,Diablo IV,PS4,0,5,210.63
+JV0034,Minecraft,Xbox,0,3,198.66
+JV0035,Mario Kart 8 Deluxe,Xbox,0,10,293.53
+JV0052,Gran Turismo 7,PC,0,10,285.06
+JV0063,Gran Turismo 7,Xbox,0,4,227.07
+JV0064,Elden Ring,PS5,0,4,176.21
+JV0065,Minecraft,Switch,0,10,270.26
+JV0073,God of War Ragnarök,Xbox,0,6,140.66
+JV0094,Call of Duty MW3,Switch,0,5,217.75
+JV0096,Mortal Kombat 1,PS5,0,7,113.99
+JV0106,Minecraft,Xbox,0,4,118.37
+JV0113,Minecraft,Switch,0,6,135.52
+JV0126,Super Mario Wonder,PC,0,10,293.18
+JV0137,Spider-Man 2,PC,0,6,291.99
+JV0144,Zelda TOTK,PS4,0,6,128.96
+JV0179,Final Fantasy XVI,Xbox,0,6,107.5
+JV0183,Minecraft,PS4,0,5,235.82
+JV0193,Gran Turismo 7,Switch,0,6,214.95
+JV0195,Mario Kart 8 Deluxe,PS5,0,4,170.07
+JV0196,Call of Duty MW3,Xbox,0,4,234.99
+JV0198,Super Mario Wonder,PC,0,6,284.97
+JV0206,God of War Ragnarök,PC,0,8,101.37
+JV0212,Zelda TOTK,Xbox,0,6,121.21
+JV0216,Elden Ring,Switch,0,9,260.68
+JV0233,Final Fantasy XVI,PS4,0,10,167.96
+JV0234,Baldur's Gate 3,PS5,0,3,126.86
+JV0253,Elden Ring,Switch,0,10,286.0
+JV0266,Baldur's Gate 3,PS5,0,5,273.96
+JV0268,God of War Ragnarök,Switch,0,8,157.65
+JV0295,Elden Ring,PC,0,8,172.02
+JV0304,Minecraft,Xbox,0,8,115.77
+JV0308,FIFA 24,Xbox,0,5,276.99
+JV0318,Super Mario Wonder,Switch,0,7,220.44
+JV0328,Call of Duty MW3,PC,0,4,270.9
+JV0359,Diablo IV,Switch,0,4,217.32
+JV0366,FIFA 24,Xbox,0,3,108.9
+JV0367,Dead Space Remake,PS5,0,4,196.56
+JV0375,Dead Space Remake,Switch,0,3,244.93
+JV0396,Hogwarts Legacy,PC,0,8,221.42
+JV0406,Elden Ring,Switch,0,6,115.44
+JV0432,Cyberpunk 2077,Switch,1,3,142.4
+JV0435,Mortal Kombat 1,PC,1,8,204.1
+JV0467,Diablo IV,PC,1,7,263.76
+JV0508,God of War Ragnarök,PS4,1,3,148.63
+JV0533,Cyberpunk 2077,Switch,1,4,295.77
+JV0545,Spider-Man 2,PS5,1,8,241.91
+JV0555,Zelda TOTK,PC,1,10,175.22
+JV0561,Mario Kart 8 Deluxe,PC,1,9,268.71
+JV0564,Super Mario Wonder,PS5,1,6,237.39
+JV0569,Spider-Man 2,Xbox,1,10,106.75
+JV0599,Resident Evil 4,PS5,1,4,171.45
+JV0602,Elden Ring,PS4,1,3,178.07
+JV0612,Diablo IV,PS5,1,3,186.09
+JV0618,Minecraft,PC,1,4,112.12
+JV0625,Cyberpunk 2077,Xbox,1,10,152.88
+JV0633,Minecraft,PC,1,4,154.04
+JV0638,Minecraft,PS4,1,3,161.07
+JV0643,Zelda TOTK,Xbox,1,7,179.14
+JV0644,Dead Space Remake,Xbox,1,7,155.71
+JV0651,Mario Kart 8 Deluxe,Switch,1,4,232.38
+JV0654,Zelda TOTK,PC,1,10,132.54
+JV0654,Zelda TOTK,PS5,1,3,298.82
+JV0662,Zelda TOTK,PS4,1,3,236.55
+JV0717,Zelda TOTK,Xbox,1,10,209.51
+JV0720,Diablo IV,PC,1,7,282.91
+JV0725,Super Mario Wonder,PC,1,8,166.36
+JV0774,Cyberpunk 2077,PS5,1,5,103.32
+JV0778,Hogwarts Legacy,Xbox,1,4,137.85
+JV0789,Super Mario Wonder,Xbox,1,4,223.27
+JV0791,Super Mario Wonder,Switch,1,9,192.27
+JV0800,Hogwarts Legacy,Xbox,1,8,244.85
+JV0801,Mortal Kombat 1,Xbox,1,10,155.39
+JV0802,Baldur's Gate 3,PS4,1,7,166.35
+JV0811,God of War Ragnarök,PC,1,8,287.59
+JV0831,Diablo IV,PS5,1,5,260.88
+JV0844,Final Fantasy XVI,PC,1,10,168.02
+JV0848,Zelda TOTK,Xbox,1,5,118.27
+JV0857,Gran Turismo 7,Xbox,1,4,137.4
+JV0869,Dead Space Remake,PS5,1,10,179.71
+JV0885,Cyberpunk 2077,PC,1,5,216.21
+JV0886,Mortal Kombat 1,Xbox,1,4,248.36
+JV0888,Hogwarts Legacy,Xbox,1,7,274.71
+JV0893,Resident Evil 4,PC,1,7,101.15
+JV0894,Cyberpunk 2077,PS4,1,9,279.35
+JV0895,Final Fantasy XVI,Xbox,1,5,134.43
+JV0905,Mortal Kombat 1,PS4,1,8,219.26
+JV0930,Gran Turismo 7,Xbox,1,10,125.41
+JV0935,Gran Turismo 7,Switch,1,7,136.75
+JV0942,Mario Kart 8 Deluxe,Xbox,1,3,185.9
+JV0970,Mortal Kombat 1,Xbox,1,10,106.04
+JV0975,Spider-Man 2,Xbox,1,10,157.82
+JV0984,Call of Duty MW3,Switch,1,6,168.6
+JV0985,God of War Ragnarök,Xbox,1,5,130.72
+JV0008,Call of Duty MW3,PS5,1,8,116.79
+JV0008,Call of Duty MW3,PC,1,9,109.97
+JV0014,Cyberpunk 2077,PS5,1,10,164.85
+JV0024,Elden Ring,Switch,1,9,171.29
+JV0039,Cyberpunk 2077,Switch,1,8,261.42
+JV0051,Diablo IV,PC,1,10,242.21
+JV0071,Resident Evil 4,Xbox,1,7,118.34
+JV0093,Dead Space Remake,Switch,1,9,187.04
+JV0094,Call of Duty MW3,PC,1,10,212.21
+JV0098,FIFA 24,PS5,1,9,251.31
+JV0104,Dead Space Remake,Xbox,1,10,253.0
+JV0123,Elden Ring,PC,1,5,103.87
+JV0157,FIFA 24,Xbox,1,8,289.77
+JV0170,FIFA 24,Xbox,1,3,205.39
+JV0184,Call of Duty MW3,PS5,1,7,230.13
+JV0192,Diablo IV,PS4,1,7,179.22
+JV0207,Diablo IV,Switch,1,7,208.97
+JV0228,Mortal Kombat 1,PS4,1,3,145.95
+JV0234,Baldur's Gate 3,Switch,1,4,297.51
+JV0235,Resident Evil 4,Xbox,1,10,269.78
+JV0254,Hogwarts Legacy,PC,1,9,155.17
+JV0292,Minecraft,PS5,1,3,238.18
+JV0313,Baldur's Gate 3,Xbox,1,4,188.24
+JV0319,Diablo IV,Switch,1,10,170.42
+JV0340,Dead Space Remake,Switch,1,3,217.39
+JV0376,Resident Evil 4,PS5,1,10,227.79
+JV0396,Hogwarts Legacy,PS4,1,5,225.78
+JV0408,Zelda TOTK,Switch,1,6,174.46
+JV0410,Baldur's Gate 3,PS5,2,4,145.9
+JV0415,Diablo IV,PS5,2,3,112.25
+JV0430,God of War Ragnarök,Xbox,2,6,254.78
+JV0435,Mortal Kombat 1,PS5,2,5,169.55
+JV0441,FIFA 24,PS4,2,5,209.34
+JV0462,Diablo IV,PC,2,5,252.91
+JV0465,Gran Turismo 7,PC,2,4,132.91
+JV0473,Diablo IV,Xbox,2,9,115.05
+JV0475,Dead Space Remake,Xbox,2,9,242.97
+JV0480,Final Fantasy XVI,Xbox,2,8,120.71
+JV0483,Resident Evil 4,PS4,2,10,106.95
+JV0486,Super Mario Wonder,PS5,2,6,129.74
+JV0493,Spider-Man 2,Switch,2,9,209.55
+JV0503,Super Mario Wonder,PC,2,9,286.79
+JV0515,Diablo IV,Xbox,2,7,152.3
+JV0527,Mortal Kombat 1,PS4,2,10,245.07
+JV0547,Final Fantasy XVI,PS5,2,7,284.11
+JV0559,FIFA 24,PC,2,10,290.44
+JV0578,Elden Ring,PS4,2,3,285.54
+JV0587,Super Mario Wonder,PS5,2,10,285.14
+JV0593,Final Fantasy XVI,Xbox,2,5,156.48
+JV0602,Elden Ring,Switch,2,3,255.77
+JV0602,Elden Ring,Xbox,2,9,199.92
+JV0609,Mortal Kombat 1,PC,2,5,156.58
+JV0610,Mario Kart 8 Deluxe,PS4,2,5,136.13
+JV0630,Super Mario Wonder,Switch,2,9,158.49
+JV0661,Cyberpunk 2077,PS5,2,7,250.88
+JV0667,Mario Kart 8 Deluxe,PS4,2,6,268.22
+JV0673,Hogwarts Legacy,PC,2,4,226.14
+JV0692,Final Fantasy XVI,PC,2,4,121.05
+JV0713,Baldur's Gate 3,PS5,2,4,195.69
+JV0713,Baldur's Gate 3,Xbox,2,10,254.75
+JV0748,Mortal Kombat 1,PS4,2,8,257.46
+JV0759,Diablo IV,PC,2,3,296.38
+JV0784,Mortal Kombat 1,Switch,2,8,147.45
+JV0798,Diablo IV,PS4,2,10,119.76
+JV0806,Diablo IV,PS4,2,9,160.27
+JV0813,Elden Ring,PS4,2,6,148.17
+JV0830,Call of Duty MW3,PS4,2,5,200.17
+JV0834,Elden Ring,Switch,2,6,221.46
+JV0835,FIFA 24,PS5,2,5,132.29
+JV0857,Gran Turismo 7,PS5,2,3,194.96
+JV0861,Mario Kart 8 Deluxe,PC,2,5,258.6
+JV0881,Hogwarts Legacy,Switch,2,4,139.73
+JV0881,Hogwarts Legacy,Xbox,2,9,181.2
+JV0891,Final Fantasy XVI,PS4,2,10,157.54
+JV0897,FIFA 24,PC,2,8,228.6
+JV0904,God of War Ragnarök,PC,2,9,153.48
+JV0930,Gran Turismo 7,PC,2,8,246.96
+JV0938,Hogwarts Legacy,PS5,2,3,278.87
+JV0978,Spider-Man 2,Xbox,2,3,224.36
+JV0982,Mortal Kombat 1,Switch,2,5,298.18
+JV0985,God of War Ragnarök,Switch,2,8,207.41
+JV0022,FIFA 24,Switch,2,3,136.52
+JV0029,Mortal Kombat 1,Xbox,2,4,160.19
+JV0033,Diablo IV,PS4,2,9,263.77
+JV0040,Baldur's Gate 3,Xbox,2,7,109.73
+JV0046,Spider-Man 2,Switch,2,4,152.41
+JV0053,FIFA 24,PC,2,9,193.16
+JV0090,Dead Space Remake,Xbox,2,9,279.18
+JV0110,Dead Space Remake,Switch,2,8,190.52
+JV0112,Mortal Kombat 1,Switch,2,6,105.79
+JV0123,Elden Ring,PS4,2,9,139.91
+JV0123,Elden Ring,Switch,2,5,205.78
+JV0142,Super Mario Wonder,PC,2,4,141.23
+JV0174,God of War Ragnarök,PS5,2,8,205.44
+JV0188,FIFA 24,PS4,2,10,288.5
+JV0190,Cyberpunk 2077,PC,2,10,228.53
+JV0192,Diablo IV,PC,2,6,169.56
+JV0204,Hogwarts Legacy,PS4,2,6,182.06
+JV0211,Spider-Man 2,PC,2,10,283.61
+JV0223,Final Fantasy XVI,Switch,2,3,110.08
+JV0234,Baldur's Gate 3,PC,2,9,118.06
+JV0239,Final Fantasy XVI,PS4,2,7,293.4
+JV0244,Zelda TOTK,Switch,2,9,246.97
+JV0257,Super Mario Wonder,Xbox,2,6,283.14
+JV0293,God of War Ragnarök,Xbox,2,4,275.77
+JV0299,Mario Kart 8 Deluxe,PS5,2,7,278.06
+JV0316,Baldur's Gate 3,Xbox,2,10,144.31
+JV0341,Mortal Kombat 1,PC,2,8,166.72
+JV0344,Final Fantasy XVI,Xbox,2,6,252.32
+JV0368,Zelda TOTK,Switch,2,8,118.62
+JV0370,Mortal Kombat 1,Switch,2,7,223.25
+JV0419,Mario Kart 8 Deluxe,PS4,3,6,128.92
+JV0439,Baldur's Gate 3,Switch,3,8,221.17
+JV0447,Mortal Kombat 1,PS4,3,3,186.95
+JV0455,Hogwarts Legacy,Xbox,3,3,239.82
+JV0467,Diablo IV,Switch,3,5,128.18
+JV0469,Baldur's Gate 3,Switch,3,10,175.62
+JV0483,Resident Evil 4,PS5,3,10,102.69
+JV0488,Hogwarts Legacy,PS5,3,9,269.4
+JV0489,Minecraft,PS5,3,9,174.43
+JV0491,Elden Ring,PS5,3,7,101.06
+JV0518,Elden Ring,Switch,3,6,195.6
+JV0520,Final Fantasy XVI,PS4,3,6,176.39
+JV0524,Gran Turismo 7,PC,3,10,181.68
+JV0563,Resident Evil 4,Xbox,3,5,193.58
+JV0590,Dead Space Remake,PC,3,10,166.17
+JV0590,Dead Space Remake,PS5,3,3,106.23
+JV0597,Elden Ring,Switch,3,8,147.04
+JV0600,Zelda TOTK,Xbox,3,9,123.08
+JV0612,Diablo IV,Xbox,3,5,242.97
+JV0647,Final Fantasy XVI,Switch,3,8,117.0
+JV0652,Elden Ring,PC,3,7,216.61
+JV0664,Final Fantasy XVI,PS4,3,8,287.93
+JV0665,Final Fantasy XVI,PS5,3,7,204.83
+JV0667,Mario Kart 8 Deluxe,Switch,3,7,237.77
+JV0680,Call of Duty MW3,PC,3,3,178.42
+JV0700,Cyberpunk 2077,Switch,3,10,283.51
+JV0712,God of War Ragnarök,PS4,3,4,280.98
+JV0716,Gran Turismo 7,PC,3,6,274.43
+JV0735,Cyberpunk 2077,PS5,3,5,287.93
+JV0746,Call of Duty MW3,PS5,3,10,146.47
+JV0752,God of War Ragnarök,Xbox,3,9,157.29
+JV0778,Hogwarts Legacy,Switch,3,4,115.29
+JV0779,Resident Evil 4,Switch,3,5,189.01
+JV0784,Mortal Kombat 1,PC,3,4,145.17
+JV0785,Zelda TOTK,PC,3,3,292.45
+JV0824,Call of Duty MW3,Xbox,3,6,146.34
+JV0837,Call of Duty MW3,PS4,3,4,107.06
+JV0844,Final Fantasy XVI,PS4,3,9,211.86
+JV0856,Diablo IV,PS5,3,9,134.94
+JV0859,God of War Ragnarök,PS4,3,5,220.13
+JV0863,Final Fantasy XVI,Xbox,3,9,158.96
+JV0866,Gran Turismo 7,PC,3,7,249.15
+JV0867,Dead Space Remake,PS5,3,8,296.79
+JV0890,God of War Ragnarök,PS4,3,6,248.95
+JV0896,Gran Turismo 7,Xbox,3,8,184.6
+JV0918,Call of Duty MW3,PS4,3,10,162.08
+JV0941,Final Fantasy XVI,Switch,3,5,143.3
+JV0947,Cyberpunk 2077,PC,3,9,172.04
+JV0950,Elden Ring,PS5,3,5,208.83
+JV0963,Hogwarts Legacy,PS5,3,6,120.9
+JV0973,Minecraft,Xbox,3,9,280.09
+JV0982,Mortal Kombat 1,PC,3,3,283.4
+JV0010,Gran Turismo 7,Xbox,3,4,244.99
+JV0113,Minecraft,PS4,3,6,123.05
+JV0183,Minecraft,PS5,3,7,243.26
+JV0213,Mortal Kombat 1,PS5,3,5,273.5
+JV0221,Call of Duty MW3,PC,3,8,219.54
+JV0229,Gran Turismo 7,PS4,3,9,131.11
+JV0264,Baldur's Gate 3,PS4,3,10,277.68
+JV0269,Elden Ring,PC,3,10,244.24
+JV0282,Mortal Kombat 1,PC,3,3,221.58
+JV0299,Mario Kart 8 Deluxe,PS4,3,3,192.46
+JV0308,FIFA 24,PS4,3,3,282.74
+JV0325,FIFA 24,Xbox,3,6,228.03
+JV0345,Resident Evil 4,PS4,3,4,205.7
+JV0352,Cyberpunk 2077,Xbox,3,3,172.35
+JV0354,Elden Ring,Switch,3,9,141.43
+JV0364,God of War Ragnarök,Xbox,3,8,240.98
+JV0383,Resident Evil 4,Xbox,3,6,170.54
+JV0384,Spider-Man 2,PS4,3,5,207.83
+JV0395,Resident Evil 4,PS4,3,4,169.86
+JV0413,Baldur's Gate 3,PS5,4,10,204.72
+JV0421,Zelda TOTK,PS5,4,8,195.51
+JV0454,Dead Space Remake,Switch,4,9,239.64
+JV0474,Baldur's Gate 3,Switch,4,9,200.7
+JV0504,Cyberpunk 2077,PS4,4,6,217.97
+JV0519,Elden Ring,Switch,4,7,275.22
+JV0536,God of War Ragnarök,Switch,4,4,189.95
+JV0600,Zelda TOTK,PS4,4,7,107.07
+JV0605,Diablo IV,Switch,4,6,235.16
+JV0631,Zelda TOTK,Switch,4,9,229.13
+JV0635,Diablo IV,PS4,4,4,119.6
+JV0650,Spider-Man 2,PS4,4,7,116.99
+JV0660,Dead Space Remake,PC,4,4,191.12
+JV0661,Cyberpunk 2077,PS4,4,6,262.37
+JV0662,Zelda TOTK,PS5,4,6,155.57
+JV0707,Hogwarts Legacy,PS4,4,10,136.97
+JV0741,Mortal Kombat 1,PS4,4,9,263.74
+JV0762,Resident Evil 4,PC,4,5,130.38
+JV0764,Hogwarts Legacy,PC,4,10,145.74
+JV0779,Resident Evil 4,Xbox,4,7,186.95
+JV0782,Resident Evil 4,Switch,4,7,129.47
+JV0813,Elden Ring,Xbox,4,6,272.25
+JV0843,God of War Ragnarök,PS4,4,5,120.23
+JV0888,Hogwarts Legacy,PS4,4,4,186.44
+JV0959,Hogwarts Legacy,Xbox,4,6,246.08
+JV0970,Mortal Kombat 1,PS4,4,10,186.19
+JV0986,Zelda TOTK,PC,4,4,264.11
+JV1000,Cyberpunk 2077,PS4,4,9,202.05
+JV0001,Minecraft,Switch,4,6,127.22
+JV0002,Mortal Kombat 1,Xbox,4,9,288.69
+JV0003,Hogwarts Legacy,PC,4,7,164.95
+JV0028,Gran Turismo 7,PS5,4,7,260.87
+JV0036,Super Mario Wonder,PS4,4,6,120.71
+JV0049,Elden Ring,PC,4,4,174.87
+JV0051,Diablo IV,PS5,4,7,223.59
+JV0079,Baldur's Gate 3,PS4,4,10,154.55
+JV0083,Mortal Kombat 1,PS4,4,9,212.06
+JV0086,Mortal Kombat 1,Switch,4,7,121.16
+JV0087,Zelda TOTK,PC,4,9,228.72
+JV0119,Baldur's Gate 3,Switch,4,4,238.47
+JV0125,Resident Evil 4,PS4,4,7,157.73
+JV0141,Elden Ring,PS4,4,8,214.95
+JV0172,Mortal Kombat 1,Xbox,4,4,219.24
+JV0178,Mario Kart 8 Deluxe,Xbox,4,9,134.37
+JV0181,FIFA 24,PC,4,7,157.46
+JV0194,Diablo IV,PC,4,8,199.96
+JV0200,Hogwarts Legacy,Xbox,4,7,206.8
+JV0210,Zelda TOTK,PS5,4,4,168.27
+JV0227,Final Fantasy XVI,Xbox,4,5,212.81
+JV0237,Diablo IV,Switch,4,10,185.78
+JV0258,Elden Ring,Xbox,4,4,171.94
+JV0258,Elden Ring,Switch,4,10,129.39
+JV0306,Call of Duty MW3,Xbox,4,4,101.35
+JV0325,FIFA 24,Switch,4,9,267.05
+JV0332,Mario Kart 8 Deluxe,Xbox,4,7,103.83
+JV0387,Diablo IV,PS4,4,8,110.47
+JV0428,Zelda TOTK,PC,5,5,205.43
+JV0438,Diablo IV,PS5,5,10,120.09
+JV0442,Gran Turismo 7,Switch,5,5,159.31
+JV0465,Gran Turismo 7,Switch,5,9,272.66
+JV0471,Hogwarts Legacy,PS4,5,8,213.76
+JV0490,Mortal Kombat 1,Switch,5,9,263.58
+JV0529,Baldur's Gate 3,Xbox,5,5,115.85
+JV0533,Cyberpunk 2077,PS4,5,5,179.72
+JV0546,Super Mario Wonder,PC,5,8,259.8
+JV0548,Hogwarts Legacy,Switch,5,10,247.2
+JV0575,Mario Kart 8 Deluxe,PC,5,6,168.09
+JV0603,Dead Space Remake,PS4,5,8,261.23
+JV0637,Resident Evil 4,Xbox,5,8,154.35
+JV0657,Baldur's Gate 3,PC,5,6,289.03
+JV0673,Hogwarts Legacy,Xbox,5,10,263.89
+JV0722,Diablo IV,PC,5,5,295.41
+JV0748,Mortal Kombat 1,PC,5,5,190.31
+JV0765,Elden Ring,PS4,5,9,126.79
+JV0775,Resident Evil 4,PC,5,10,151.11
+JV0840,FIFA 24,Xbox,5,7,170.62
+JV0846,Gran Turismo 7,Switch,5,5,167.62
+JV0854,FIFA 24,PS4,5,6,231.4
+JV0887,Dead Space Remake,PC,5,5,254.0
+JV0919,Mario Kart 8 Deluxe,PS5,5,8,162.69
+JV0952,Hogwarts Legacy,Switch,5,6,234.74
+JV0961,Diablo IV,PC,5,5,113.93
+JV0976,Mortal Kombat 1,PS5,5,5,117.95
+JV0978,Spider-Man 2,PS4,5,10,230.53
+JV0981,Zelda TOTK,PS4,5,9,211.64
+JV0984,Call of Duty MW3,PC,5,8,225.15
+JV0988,Call of Duty MW3,PS4,5,8,213.56
+JV0030,Cyberpunk 2077,PS5,5,5,178.26
+JV0037,Spider-Man 2,Switch,5,6,121.03
+JV0071,Resident Evil 4,PS4,5,9,115.09
+JV0073,God of War Ragnarök,PS5,5,6,140.74
+JV0090,Dead Space Remake,PS5,5,9,134.9
+JV0140,Mortal Kombat 1,PC,5,5,233.62
+JV0162,God of War Ragnarök,Xbox,5,8,173.18
+JV0177,Elden Ring,PS5,5,9,230.36
+JV0224,God of War Ragnarök,Xbox,5,6,102.12
+JV0240,Minecraft,PC,5,7,179.61
+JV0257,Super Mario Wonder,PC,5,9,220.03
+JV0260,Gran Turismo 7,Xbox,5,6,164.22
+JV0278,Zelda TOTK,Xbox,5,6,152.44
+JV0311,Hogwarts Legacy,PC,5,10,156.4
+JV0314,Gran Turismo 7,PC,5,10,226.37
+JV0325,FIFA 24,PC,5,6,238.53
+JV0366,FIFA 24,Switch,5,9,239.27
+JV0367,Dead Space Remake,PC,5,9,161.04
+JV0369,Spider-Man 2,Xbox,5,5,295.4
+JV0425,Spider-Man 2,PC,6,9,206.0
+JV0432,Cyberpunk 2077,PC,6,9,186.0
+JV0457,Zelda TOTK,Switch,6,9,253.26
+JV0461,FIFA 24,Xbox,6,7,117.39
+JV0478,Mortal Kombat 1,PS4,6,9,285.87
+JV0494,Spider-Man 2,Xbox,6,10,277.01
+JV0502,Baldur's Gate 3,Xbox,6,10,243.45
+JV0512,Spider-Man 2,PS4,6,10,285.13
+JV0547,Final Fantasy XVI,PC,6,8,246.13
+JV0548,Hogwarts Legacy,PS5,6,6,192.54
+JV0551,Hogwarts Legacy,PS5,6,10,105.28
+JV0556,God of War Ragnarök,Xbox,6,10,136.01
+JV0568,Diablo IV,Switch,6,9,217.15
+JV0575,Mario Kart 8 Deluxe,PS5,6,6,100.09
+JV0599,Resident Evil 4,PS4,6,9,102.92
+JV0610,Mario Kart 8 Deluxe,Switch,6,6,253.49
+JV0614,Zelda TOTK,Xbox,6,10,259.24
+JV0629,Zelda TOTK,PC,6,8,295.09
+JV0630,Super Mario Wonder,PS5,6,9,191.07
+JV0630,Super Mario Wonder,Xbox,6,9,249.72
+JV0632,Diablo IV,PS4,6,10,267.26
+JV0642,Diablo IV,Xbox,6,10,256.89
+JV0657,Baldur's Gate 3,Xbox,6,7,177.91
+JV0659,Gran Turismo 7,PC,6,9,146.56
+JV0669,Cyberpunk 2077,PS4,6,9,170.56
+JV0672,Mario Kart 8 Deluxe,Switch,6,9,206.09
+JV0711,Super Mario Wonder,PC,6,7,146.35
+JV0725,Super Mario Wonder,PS4,6,8,290.35
+JV0769,Super Mario Wonder,PS5,6,7,170.85
+JV0788,Gran Turismo 7,PS5,6,6,289.22
+JV0805,Diablo IV,PS5,6,9,116.78
+JV0812,Baldur's Gate 3,PC,6,9,283.88
+JV0866,Gran Turismo 7,Xbox,6,10,187.3
+JV0879,Spider-Man 2,Switch,6,8,163.3
+JV0918,Call of Duty MW3,Switch,6,10,195.81
+JV0930,Gran Turismo 7,PS5,6,10,215.71
+JV0977,Mortal Kombat 1,Switch,6,6,261.46
+JV0998,Hogwarts Legacy,Switch,6,10,269.66
+JV0014,Cyberpunk 2077,Xbox,6,10,249.15
+JV0039,Cyberpunk 2077,PC,6,6,188.71
+JV0049,Elden Ring,PS5,6,6,292.25
+JV0065,Minecraft,PC,6,7,164.81
+JV0079,Baldur's Gate 3,Switch,6,7,293.01
+JV0087,Zelda TOTK,Xbox,6,8,183.97
+JV0092,Resident Evil 4,Switch,6,10,296.72
+JV0116,Cyberpunk 2077,PS4,6,6,243.12
+JV0155,Final Fantasy XVI,Switch,6,9,164.65
+JV0158,Minecraft,Xbox,6,10,148.42
+JV0161,Minecraft,Switch,6,6,160.39
+JV0165,Call of Duty MW3,PS5,6,10,235.94
+JV0178,Mario Kart 8 Deluxe,PS5,6,8,274.32
+JV0205,Baldur's Gate 3,PC,6,10,169.07
+JV0217,Baldur's Gate 3,PS5,6,6,143.29
+JV0236,Mario Kart 8 Deluxe,PS5,6,9,260.54
+JV0243,FIFA 24,PC,6,8,137.07
+JV0250,Elden Ring,PS4,6,9,209.1
+JV0254,Hogwarts Legacy,PS5,6,6,279.37
+JV0268,God of War Ragnarök,Xbox,6,6,268.93
+JV0276,FIFA 24,Xbox,6,6,217.25
+JV0321,Diablo IV,Switch,6,6,266.92
+JV0322,Dead Space Remake,Xbox,6,8,133.32
+JV0347,Mario Kart 8 Deluxe,PS5,6,10,289.19
+JV0376,Resident Evil 4,PS4,6,9,120.34
+JV0394,Cyberpunk 2077,Xbox,6,8,151.28
+JV0443,Minecraft,Switch,7,9,224.06
+JV0516,Hogwarts Legacy,PS4,7,8,135.0
+JV0538,Call of Duty MW3,PS5,7,10,110.36
+JV0559,FIFA 24,PS5,7,7,213.54
+JV0596,Resident Evil 4,Xbox,7,9,167.95
+JV0631,Zelda TOTK,Xbox,7,9,260.06
+JV0638,Minecraft,Switch,7,7,264.17
+JV0663,Gran Turismo 7,PS5,7,10,253.22
+JV0676,Spider-Man 2,PS4,7,10,209.32
+JV0705,Cyberpunk 2077,Switch,7,10,107.74
+JV0769,Super Mario Wonder,Switch,7,7,222.91
+JV0799,Mario Kart 8 Deluxe,PS5,7,10,100.46
+JV0820,Diablo IV,PC,7,7,259.34
+JV0878,Cyberpunk 2077,PS5,7,7,221.81
+JV0921,Final Fantasy XVI,PS5,7,9,275.02
+JV0928,Minecraft,PC,7,8,270.92
+JV0942,Mario Kart 8 Deluxe,Switch,7,10,167.58
+JV0976,Mortal Kombat 1,PS4,7,9,291.22
+JV0999,Baldur's Gate 3,PS5,7,9,111.28
+JV0011,Cyberpunk 2077,PC,7,7,168.36
+JV0029,Mortal Kombat 1,PS4,7,10,120.67
+JV0043,Zelda TOTK,PS4,7,9,286.75
+JV0050,Mario Kart 8 Deluxe,Xbox,7,8,220.44
+JV0051,Diablo IV,Xbox,7,10,149.3
+JV0052,Gran Turismo 7,PS4,7,10,238.4
+JV0057,Zelda TOTK,PC,7,8,251.0
+JV0075,Cyberpunk 2077,Xbox,7,9,126.21
+JV0088,Super Mario Wonder,Switch,7,7,198.96
+JV0104,Dead Space Remake,PC,7,9,182.7
+JV0152,Elden Ring,Xbox,7,10,213.02
+JV0153,Mario Kart 8 Deluxe,PS5,7,9,297.39
+JV0185,Dead Space Remake,Xbox,7,10,143.35
+JV0192,Diablo IV,Xbox,7,7,224.15
+JV0194,Diablo IV,PS4,7,7,133.48
+JV0198,Super Mario Wonder,Xbox,7,7,186.31
+JV0231,Dead Space Remake,Xbox,7,9,285.17
+JV0273,Elden Ring,PS4,7,10,194.65
+JV0331,Zelda TOTK,PS5,7,10,241.16
+JV0344,Final Fantasy XVI,PC,7,9,154.06
+JV0366,FIFA 24,PS4,7,10,129.74
+JV0391,Call of Duty MW3,Xbox,7,8,298.57
+JV0423,Minecraft,PS5,8,9,175.59
+JV0446,Resident Evil 4,PS5,8,8,271.66
+JV0529,Baldur's Gate 3,PC,8,9,163.29
+JV0603,Dead Space Remake,PC,8,10,117.23
+JV0620,Diablo IV,Switch,8,10,226.9
+JV0644,Dead Space Remake,PS5,8,8,135.54
+JV0674,Elden Ring,Xbox,8,9,114.89
+JV0678,Super Mario Wonder,PS4,8,10,236.05
+JV0693,Baldur's Gate 3,PC,8,9,260.12
+JV0714,Final Fantasy XVI,PS4,8,10,234.86
+JV0770,Baldur's Gate 3,PS5,8,10,101.55
+JV0831,Diablo IV,Xbox,8,9,138.04
+JV0842,Mortal Kombat 1,PS5,8,10,199.59
+JV0854,FIFA 24,Xbox,8,10,185.42
+JV0877,Mortal Kombat 1,PC,8,9,243.06
+JV0891,Final Fantasy XVI,Xbox,8,8,254.1
+JV0915,Dead Space Remake,Xbox,8,9,148.29
+JV0953,Diablo IV,PS4,8,10,166.21
+JV0981,Zelda TOTK,Xbox,8,8,179.25
+JV0084,Elden Ring,Switch,8,9,121.36
+JV0171,Zelda TOTK,PS5,8,9,246.06
+JV0246,Mario Kart 8 Deluxe,Xbox,8,8,103.38
+JV0265,Spider-Man 2,Xbox,8,10,261.51
+JV0284,Gran Turismo 7,PS5,8,9,137.63
+JV0304,Minecraft,PS4,8,8,234.08
+JV0307,Mortal Kombat 1,Xbox,8,9,228.75
+JV0364,God of War Ragnarök,PS5,8,10,114.64
+JV0365,FIFA 24,Switch,8,8,216.07
+JV0428,Zelda TOTK,PS4,9,10,264.82
+JV0505,God of War Ragnarök,Xbox,9,9,179.01
+JV0530,Cyberpunk 2077,PS4,9,10,135.21
+JV0566,Super Mario Wonder,Xbox,9,9,234.25
+JV0624,Elden Ring,PS4,9,10,237.11
+JV0674,Elden Ring,PC,9,9,220.76
+JV0806,Diablo IV,Switch,9,9,279.41
+JV0841,Zelda TOTK,Xbox,9,10,210.57
+JV0947,Cyberpunk 2077,PS4,9,9,138.1
+JV0157,FIFA 24,Switch,9,10,290.67
+JV0304,Minecraft,PC,9,9,132.51
+JV0304,Minecraft,Switch,9,9,100.96
+JV0359,Diablo IV,PC,9,10,280.15
+JV0385,Mario Kart 8 Deluxe,PS5,9,10,163.35
+JV0411,Elden Ring,PS4,10,10,262.15
+JV0565,Mortal Kombat 1,PS5,10,10,293.78
+JV0632,Diablo IV,PS5,10,10,272.49
+JV0679,God of War Ragnarök,PS5,10,10,153.86
+JV0781,Hogwarts Legacy,PS4,10,10,285.3
+JV0823,FIFA 24,PC,10,10,201.52
+JV0871,Diablo IV,Xbox,10,10,202.99
+JV0952,Hogwarts Legacy,PS4,10,10,143.45
+JV0132,Mortal Kombat 1,Xbox,10,10,228.59
+JV0193,Gran Turismo 7,PC,10,10,134.84
+JV0285,Zelda TOTK,PC,10,10,109.96

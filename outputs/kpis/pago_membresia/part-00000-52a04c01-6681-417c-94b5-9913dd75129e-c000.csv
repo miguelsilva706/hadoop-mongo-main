@@ -1,0 +1,21 @@
+nivel_membresia,metodo_pago,frecuencia
+Básico,Tarjeta Débito,2591
+Básico,Efectivo,2543
+Básico,Yape,2498
+Básico,Tarjeta Crédito,2486
+Básico,Plin,2443
+Gold,Tarjeta Crédito,2702
+Gold,Efectivo,2676
+Gold,Tarjeta Débito,2655
+Gold,Plin,2645
+Gold,Yape,2565
+Platinum,Tarjeta Crédito,2588
+Platinum,Efectivo,2579
+Platinum,Tarjeta Débito,2564
+Platinum,Plin,2508
+Platinum,Yape,2472
+Silver,Yape,2325
+Silver,Tarjeta Crédito,2307
+Silver,Tarjeta Débito,2305
+Silver,Plin,2293
+Silver,Efectivo,2255

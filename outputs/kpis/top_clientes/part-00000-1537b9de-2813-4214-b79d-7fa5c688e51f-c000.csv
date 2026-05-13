@@ -1,0 +1,11 @@
+cliente_id,nombre,nivel_membresia,distrito,num_compras,gasto_total,ticket_promedio,ultima_compra
+C0035,Adán de Álvarez,Silver,Surquillo,128,50129.1,391.63,2024-12-28
+C0215,Marciano Agustín,Gold,Callao,124,48859.9,394.03,2024-12-26
+C0316,Clotilde Carvajal Torrijos,Básico,Callao,117,47540.3,406.33,2024-12-26
+C0053,Geraldo Gomez,Platinum,Breña,129,47529.2,368.44,2024-12-28
+C0241,Etelvina Gil Llorente,Gold,Surco,123,47460.1,385.85,2024-12-28
+C0056,Vicenta Guillén,Platinum,Comas,125,47329.9,378.64,2024-12-23
+C0196,Lisandro Amorós Garrido,Gold,SJL,115,47110.7,409.66,2024-12-30
+C0477,Ainara de Álvaro,Gold,Callao,113,46870.1,414.78,2024-12-28
+C0073,Buenaventura Bustamante Crespo,Gold,Lince,121,46210.8,381.91,2024-12-22
+C0337,Aurora Cáceres Jimenez,Platinum,La Molina,119,46050.6,386.98,2024-12-26
